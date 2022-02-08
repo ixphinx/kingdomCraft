@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1642899697959
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1642968877793
+  login: 1642968840729
+money: '0'
+last-account-name: xSLeechSx
+lastlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: -35.5
+  y: 126.0
+  z: 234.5
+  yaw: -88.28024291992188
+  pitch: 15.384917259216309
+logoutlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: -35.416672249124034
+  y: 126.0
+  z: 234.5550782699053
+  yaw: -88.28024291992188
+  pitch: 15.384917259216309
+homes:
+  home:
+    world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+    world-name: '1'
+    x: -35.98621561298996
+    y: 126.0
+    z: 234.99335284496578
+    yaw: -88.28024291992188
+    pitch: 15.384917259216309

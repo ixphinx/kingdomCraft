@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 179.26.10.104
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1643512390650
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1643677557841
+  login: 1643675266502
+money: '0'
+last-account-name: cKimba
+lastlocation:
+  world: 0c1910d0-c773-4a11-be8c-1e38ce683f32
+  world-name: world
+  x: 668.3046024033894
+  y: 63.0
+  z: -1112.6803515385363
+  yaw: -20.10693359375
+  pitch: 1.4998563528060913
+logoutlocation:
+  world: 0c1910d0-c773-4a11-be8c-1e38ce683f32
+  world-name: world
+  x: 1143.2301378102363
+  y: 70.0
+  z: -905.8858368873449
+  yaw: -320.6912841796875
+  pitch: -6.450001239776611
+homes:
+  home:
+    world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+    world-name: '1'
+    x: -2599.650398770077
+    y: 68.0
+    z: 1532.9320674316791
+    yaw: -268.7286376953125
+    pitch: -1.799952507019043

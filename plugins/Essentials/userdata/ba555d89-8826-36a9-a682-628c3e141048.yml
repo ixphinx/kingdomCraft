@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 187.190.168.46
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1643080050276
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1644019614728
+  login: 1644018900532
+money: '0'
+last-account-name: GioUwUr
+lastlocation:
+  world: 0c1910d0-c773-4a11-be8c-1e38ce683f32
+  world-name: world
+  x: 1138.5
+  y: 71.0
+  z: -882.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: 0c1910d0-c773-4a11-be8c-1e38ce683f32
+  world-name: world
+  x: 1124.943574872867
+  y: 70.0
+  z: -876.3276608183787
+  yaw: 195.9527587890625
+  pitch: 18.980640411376953
+homes:
+  home:
+    world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+    world-name: '1'
+    x: -741.0514567231598
+    y: 68.0
+    z: -225.29607297311134
+    yaw: -57.66611862182617
+    pitch: 10.16089153289795

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1643157267546
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1643157581675
+  login: 1643157553642
+money: '0'
+last-account-name: LeoBanzz
+lastlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: -2671.8078787179265
+  y: 68.49520087700593
+  z: 1569.60143079378
+  yaw: -208.12655639648438
+  pitch: -9.167877197265625
+logoutlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: 0.0
+  y: 67.0
+  z: 0.0
+  yaw: 0.0
+  pitch: 0.0

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1643004680968
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1643011720901
+  login: 1643010196008
+money: '0'
+last-account-name: annillu_uwu
+lastlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: -21.654157866877462
+  y: 73.0
+  z: 31.400763008530244
+  yaw: 173.5503692626953
+  pitch: 2.550079345703125
+logoutlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: -1184.3501670982146
+  y: 68.0
+  z: 326.43968497899255
+  yaw: -58.205108642578125
+  pitch: 0.14987584948539734

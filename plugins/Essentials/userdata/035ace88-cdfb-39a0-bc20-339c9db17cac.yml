@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1642925264618
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1642925795303
+  login: 1642925081029
+money: '0'
+last-account-name: Jopher11733
+lastlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: -93.30000001192093
+  y: 78.0
+  z: 1883.5359414597115
+  yaw: 156.85128784179688
+  pitch: 15.963987350463867
+logoutlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: -600.3203589853002
+  y: 107.0
+  z: 3031.364464891215
+  yaw: -115.15185546875
+  pitch: 13.349916458129883
+homes:
+  home:
+    world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+    world-name: '1'
+    x: -598.6999999880791
+    y: 98.0
+    z: 3069.824999988079
+    yaw: -355.45355224609375
+    pitch: 18.299762725830078

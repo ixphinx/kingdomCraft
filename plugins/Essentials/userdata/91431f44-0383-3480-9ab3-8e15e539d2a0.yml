@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1643218930891
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1643226019833
+  login: 1643225922273
+money: '0'
+last-account-name: BENJAPRIME_93
+lastlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: 90.48941037178315
+  y: 96.07206339404829
+  z: -133.95150985137406
+  yaw: -231.74456787109375
+  pitch: 23.84982681274414
+logoutlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: 195.9869662243185
+  y: 92.78977178055773
+  z: -371.8950118481242
+  yaw: -29.545461654663086
+  pitch: 61.04999542236328

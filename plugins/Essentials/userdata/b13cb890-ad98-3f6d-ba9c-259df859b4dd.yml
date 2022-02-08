@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1642631432242
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1642631648751
+  login: 1642631365035
+money: '0'
+last-account-name: Kal_VlzK
+lastlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: -83.9178860404272
+  y: 70.0
+  z: -76.37801938454686
+  yaw: 21.553462982177734
+  pitch: 27.425579071044922
+logoutlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: -35.74080157010497
+  y: 130.0
+  z: 234.30000001192093
+  yaw: 100.58758544921875
+  pitch: 12.22871208190918
+homes:
+  home:
+    world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+    world-name: '1'
+    x: -34.851061589798235
+    y: 126.0
+    z: 236.12452066668268
+    yaw: -176.4752197265625
+    pitch: 37.98606872558594

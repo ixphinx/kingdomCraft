@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1643163816152
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1643164114872
+  login: 1643163752258
+money: '0'
+last-account-name: 6MrSicario9
+lastlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: -1641.2816460902943
+  y: 11.0
+  z: 196.50346125431102
+  yaw: -5.497699737548828
+  pitch: 8.821697235107422
+logoutlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: -1591.3255060911747
+  y: 63.0
+  z: 343.5094240480765
+  yaw: 144.91259765625
+  pitch: 22.452533721923828
+homes:
+  home:
+    world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+    world-name: '1'
+    x: -1634.1672363171058
+    y: 63.0
+    z: 299.57596091058343
+    yaw: 135.79971313476562
+    pitch: 24.97319984436035

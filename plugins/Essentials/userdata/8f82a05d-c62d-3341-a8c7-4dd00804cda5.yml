@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 187.132.214.218
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1643700723897
+  login: 1643700708869
+money: '0'
+last-account-name: ZER002B
+lastlocation:
+  world: 0c1910d0-c773-4a11-be8c-1e38ce683f32
+  world-name: world
+  x: 668.3046024033894
+  y: 63.0
+  z: -1112.6803515385363
+  yaw: -20.10693359375
+  pitch: 1.4998563528060913
+logoutlocation:
+  world: 0c1910d0-c773-4a11-be8c-1e38ce683f32
+  world-name: world
+  x: 1137.5
+  y: 69.0
+  z: -885.5
+  yaw: 12.30487060546875
+  pitch: 52.649906158447266

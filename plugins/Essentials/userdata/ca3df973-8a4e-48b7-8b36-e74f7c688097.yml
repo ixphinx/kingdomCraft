@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: true
+muted: false
+jailed: false
+ip-address: 187.189.101.133
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1643778034745
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1643780190110
+  login: 1643776280168
+money: '0'
+last-account-name: AnnyWhite
+lastlocation:
+  world: 0c1910d0-c773-4a11-be8c-1e38ce683f32
+  world-name: world
+  x: 1072.5
+  y: 71.0
+  z: -1167.5
+  yaw: 202.65902709960938
+  pitch: 17.549968719482422
+logoutlocation:
+  world: 0c1910d0-c773-4a11-be8c-1e38ce683f32
+  world-name: world
+  x: 956.250564395458
+  y: 108.37350844070853
+  z: -1231.6003768048731
+  yaw: 288.7552490234375
+  pitch: 35.39961242675781

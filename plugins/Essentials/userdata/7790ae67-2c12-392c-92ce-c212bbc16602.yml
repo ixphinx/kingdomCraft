@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1642809899378
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1642809938665
+  login: 1642807820283
+money: '0'
+last-account-name: VippoTwitch
+lastlocation:
+  world: d0104e9f-2b3b-4c57-a5af-9761fe0033d8
+  world-name: '3'
+  x: 40.577685726924614
+  y: 54.200000047683716
+  z: -1047.300000011921
+  yaw: 74.99089050292969
+  pitch: 17.999914169311523
+homes:
+  home:
+    world: 67a73dcc-1328-485e-a36a-f3bc9a81811a
+    world-name: '2'
+    x: 42.69999998807907
+    y: 93.83917445623162
+    z: -316.69999998807907
+    yaw: 183.00009155273438
+    pitch: 10.499919891357422
+logoutlocation:
+  world: d0104e9f-2b3b-4c57-a5af-9761fe0033d8
+  world-name: '3'
+  x: 88.93091862355048
+  y: 132.50875434730065
+  z: -1132.7747209005195
+  yaw: 101.69094848632812
+  pitch: 52.649986267089844

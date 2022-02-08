@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1642905393374
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1643133903818
+  login: 1643133484190
+money: '0'
+last-account-name: MILLAN0804
+lastlocation:
+  world: d0104e9f-2b3b-4c57-a5af-9761fe0033d8
+  world-name: '3'
+  x: 109.85389153672706
+  y: 25.0
+  z: -1138.9727616483913
+  yaw: 9.749847412109375
+  pitch: 11.249979019165039
+logoutlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: -2144.627982622758
+  y: 67.0
+  z: -324.03403360148127
+  yaw: 18.853057861328125
+  pitch: 7.049983978271484
+homes:
+  home:
+    world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+    world-name: '1'
+    x: -2219.834517568984
+    y: 119.0
+    z: -722.4531108253252
+    yaw: 275.7340087890625
+    pitch: 5.272024154663086

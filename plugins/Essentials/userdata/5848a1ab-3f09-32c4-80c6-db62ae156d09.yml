@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1643076669220
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1643076925496
+  login: 1643076654955
+money: '0'
+last-account-name: FrannKo
+lastlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: -213.5
+  y: 5.0
+  z: 388.5
+  yaw: -206.11532592773438
+  pitch: -13.200007438659668
+logoutlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: -586.6842222526809
+  y: 71.24918707874468
+  z: -95.69356893201564
+  yaw: -180.2137451171875
+  pitch: 3.149872064590454
+homes:
+  home:
+    world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+    world-name: '1'
+    x: -501.79677298863226
+    y: 70.0
+    z: -12.121598847436806
+    yaw: -74.70066833496094
+    pitch: 24.149938583374023

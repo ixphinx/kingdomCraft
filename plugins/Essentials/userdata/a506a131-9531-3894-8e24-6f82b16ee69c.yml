@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 179.6.212.241
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1643509589918
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1643695527957
+  login: 1643695482785
+money: '0'
+last-account-name: cmaquera
+lastlocation:
+  world: 0c1910d0-c773-4a11-be8c-1e38ce683f32
+  world-name: world
+  x: 1192.2164355996497
+  y: 68.0
+  z: -955.9484674754302
+  yaw: 209.70208740234375
+  pitch: 64.97692108154297
+logoutlocation:
+  world: 0c1910d0-c773-4a11-be8c-1e38ce683f32
+  world-name: world
+  x: 1761.542889914216
+  y: 151.0
+  z: -162.49613195099263
+  yaw: -325.70782470703125
+  pitch: -22.05001449584961
+homes:
+  home:
+    world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+    world-name: '1'
+    x: -744.2536650876402
+    y: 192.0
+    z: -544.5689663144321
+    yaw: 357.87451171875
+    pitch: 30.97614288330078

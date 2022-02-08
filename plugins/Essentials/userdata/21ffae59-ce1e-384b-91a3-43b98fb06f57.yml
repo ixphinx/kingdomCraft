@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 187.189.101.133
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1643511613571
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1643511831538
+  login: 1643511556952
+money: '0'
+last-account-name: charlywatson
+lastlocation:
+  world: 67a73dcc-1328-485e-a36a-f3bc9a81811a
+  world-name: '2'
+  x: -14.5
+  y: 69.0
+  z: -139.5
+  yaw: -4.497554779052734
+  pitch: -9.749979972839355
+logoutlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: 694.6156143239436
+  y: 86.0
+  z: -269.4430975770676
+  yaw: 270.20947265625
+  pitch: 11.84997844696045
+homes:
+  home:
+    world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+    world-name: '1'
+    x: 651.5567807141305
+    y: 87.0
+    z: -245.74051469209593
+    yaw: 120.65985107421875
+    pitch: 27.682445526123047

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1642444104483
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1642444925035
+  login: 1642442457821
+money: '0'
+last-account-name: andrewolf006
+lastlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: -148.78606040591475
+  y: 17.84515412104788
+  z: 292.6615987898915
+  yaw: -110.478759765625
+  pitch: 24.749889373779297
+logoutlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: -332.4171158822025
+  y: 86.60095016951057
+  z: -774.9481040723789
+  yaw: -110.23430633544922
+  pitch: 24.900007247924805

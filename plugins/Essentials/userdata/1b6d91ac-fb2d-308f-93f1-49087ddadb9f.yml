@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 189.203.192.108
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1643510650564
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1643510748110
+  login: 1643510630962
+money: '0'
+last-account-name: itsLeay
+lastlocation:
+  world: 67a73dcc-1328-485e-a36a-f3bc9a81811a
+  world-name: '2'
+  x: -14.5
+  y: 69.0
+  z: -139.5
+  yaw: -0.14755485951900482
+  pitch: -4.349979877471924
+logoutlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: 651.3298329216987
+  y: 87.0
+  z: -243.29265313150054
+  yaw: 164.88803100585938
+  pitch: 9.487588882446289
+homes:
+  home:
+    world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+    world-name: '1'
+    x: 697.3078493738528
+    y: 92.0
+    z: -271.8017070724278
+    yaw: 359.549072265625
+    pitch: 20.272838592529297

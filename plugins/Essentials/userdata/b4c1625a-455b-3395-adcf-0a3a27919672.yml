@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1642295900281
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1642301999572
+  login: 1642298783846
+money: '0'
+last-account-name: josefdogenes_
+lastlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: -651.0050136936288
+  y: 84.95733013319352
+  z: -700.0986465768299
+  yaw: -205.27320861816406
+  pitch: 37.50001525878906
+logoutlocation:
+  world: 67a73dcc-1328-485e-a36a-f3bc9a81811a
+  world-name: '2'
+  x: 605.4692766726802
+  y: 145.0
+  z: -1509.1820389857132
+  yaw: -176.69140625
+  pitch: 71.10004425048828
+nickname: JoseGenes

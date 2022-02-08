@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1642735140092
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1642735148212
+  login: 1642735117239
+money: '0'
+last-account-name: CesarAg122
+lastlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: -1555.9898048879884
+  y: 68.0
+  z: -3469.9178992174966
+  yaw: 4.657773017883301
+  pitch: -25.0864315032959
+logoutlocation:
+  world: 67a73dcc-1328-485e-a36a-f3bc9a81811a
+  world-name: '2'
+  x: -14.5
+  y: 69.0
+  z: -139.5
+  yaw: -0.14755485951900482
+  pitch: -4.349979877471924
+homes:
+  home:
+    world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+    world-name: '1'
+    x: -1558.6053900970674
+    y: 63.0
+    z: -3498.5668165129123
+    yaw: -188.16177368164062
+    pitch: 30.046781539916992

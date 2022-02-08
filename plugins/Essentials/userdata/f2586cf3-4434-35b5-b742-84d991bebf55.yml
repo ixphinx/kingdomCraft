@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 187.190.165.8
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1643690093380
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1643692668244
+  login: 1643678900669
+money: '0'
+last-account-name: Valkryon365
+lastlocation:
+  world: 0c1910d0-c773-4a11-be8c-1e38ce683f32
+  world-name: world
+  x: 1831.0947035861593
+  y: 49.0
+  z: -1441.9201020592134
+  yaw: -181.0328369140625
+  pitch: 13.950265884399414
+logoutlocation:
+  world: 0c1910d0-c773-4a11-be8c-1e38ce683f32
+  world-name: world
+  x: 1829.1019611819966
+  y: 70.0
+  z: -1400.4765580186138
+  yaw: 192.451171875
+  pitch: 26.549823760986328
+homes:
+  home:
+    world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+    world-name: '1'
+    x: -528.3774723413885
+    y: 191.0
+    z: -48.58815758130721
+    yaw: -91.96613311767578
+    pitch: 29.100069046020508

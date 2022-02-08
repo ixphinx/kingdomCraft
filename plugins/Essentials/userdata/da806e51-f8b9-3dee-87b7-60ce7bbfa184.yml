@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1642372732001
+  login: 1642372620587
+money: '0'
+last-account-name: NoHackerIsLegit
+lastlocation:
+  world: 67a73dcc-1328-485e-a36a-f3bc9a81811a
+  world-name: '2'
+  x: -14.5
+  y: 69.0
+  z: -139.5
+  yaw: -0.14755485951900482
+  pitch: -4.349979877471924
+logoutlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: -60.21778306823975
+  y: 65.0
+  z: -124.22024689625191
+  yaw: 104.54998016357422
+  pitch: -18.300006866455078

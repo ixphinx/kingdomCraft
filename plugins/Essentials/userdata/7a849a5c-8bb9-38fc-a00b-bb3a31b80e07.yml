@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1642727941522
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1642728444994
+  login: 1642727878018
+money: '0'
+last-account-name: SrReikuz
+lastlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: -122.40775424330504
+  y: 65.0
+  z: -91.53071688755095
+  yaw: 3.00030517578125
+  pitch: 22.20000457763672
+logoutlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: -590.5887690682698
+  y: 99.0
+  z: 3077.9881245088995
+  yaw: 172.04669189453125
+  pitch: 12.000001907348633
+homes:
+  home:
+    world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+    world-name: '1'
+    x: -588.7538717178858
+    y: 107.0
+    z: 3031.0104070293655
+    yaw: 11.1552152633667
+    pitch: 16.349849700927734

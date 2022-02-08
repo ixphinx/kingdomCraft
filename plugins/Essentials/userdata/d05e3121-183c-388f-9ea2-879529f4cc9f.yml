@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 186.3.85.136
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1643512734192
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1643512888320
+  login: 1643511959245
+money: '0'
+last-account-name: maskapito
+lastlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: -1557.3942061138703
+  y: 43.9375
+  z: -3501.7973966800273
+  yaw: -266.6566162109375
+  pitch: 26.697622299194336
+homes:
+  home:
+    world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+    world-name: '1'
+    x: -1558.8990166537976
+    y: 63.0
+    z: -3494.8057970258164
+    yaw: -171.51434326171875
+    pitch: 7.8382158279418945
+logoutlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: -1549.9861247106548
+  y: 63.0
+  z: -3490.5298205037825
+  yaw: 187.60081481933594
+  pitch: 23.34486198425293

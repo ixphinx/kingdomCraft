@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 190.148.209.82
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1643674384774
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1644020750586
+  login: 1644020665664
+money: '0'
+last-account-name: chepequique
+lastlocation:
+  world: 0c1910d0-c773-4a11-be8c-1e38ce683f32
+  world-name: world
+  x: 1036.8238005285625
+  y: 105.96419772980974
+  z: -1344.9657536723591
+  yaw: 53.2545166015625
+  pitch: 23.69997787475586
+logoutlocation:
+  world: 0c1910d0-c773-4a11-be8c-1e38ce683f32
+  world-name: world
+  x: 867.8594499337435
+  y: 69.0
+  z: -1461.582543531341
+  yaw: 83.965576171875
+  pitch: 42.29987716674805
+homes:
+  home:
+    world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+    world-name: '1'
+    x: 695.5
+    y: 89.0
+    z: -267.5
+    yaw: 137.04055786132812
+    pitch: 4.350005626678467

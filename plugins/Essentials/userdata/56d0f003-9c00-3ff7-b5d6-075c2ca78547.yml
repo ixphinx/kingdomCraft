@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 187.137.23.170
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1644020908930
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1644021496680
+  login: 1644017104346
+money: '0'
+last-account-name: CaserolaCas
+lastlocation:
+  world: 0c1910d0-c773-4a11-be8c-1e38ce683f32
+  world-name: world
+  x: 2249.5
+  y: 69.0
+  z: -838.5
+  yaw: 330.4561767578125
+  pitch: 11.849985122680664
+logoutlocation:
+  world: 0c1910d0-c773-4a11-be8c-1e38ce683f32
+  world-name: world
+  x: 2237.1680317831074
+  y: 78.0
+  z: -778.8693895651948
+  yaw: 52.3511962890625
+  pitch: 6.6000189781188965
+homes:
+  home:
+    world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+    world-name: '1'
+    x: 690.8810183159549
+    y: 89.0
+    z: -267.5111270326897
+    yaw: 91.4405517578125
+    pitch: 27.449966430664062

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1642312506196
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1642312586070
+  login: 1642310377959
+money: '0'
+last-account-name: iSmarvin
+lastlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: -1923.717823464163
+  y: 83.0
+  z: -505.9537119709773
+  yaw: 106.4100341796875
+  pitch: 1.588141918182373
+logoutlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: -194.657950023212
+  y: 75.0
+  z: 282.30000001192093
+  yaw: -174.45291137695312
+  pitch: 24.14998435974121

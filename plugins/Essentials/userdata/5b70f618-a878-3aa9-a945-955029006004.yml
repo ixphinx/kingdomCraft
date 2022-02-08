@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 181.67.159.110
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1643518212479
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1643703661877
+  login: 1643699067558
+money: '0'
+last-account-name: Itsrusita
+lastlocation:
+  world: 0c1910d0-c773-4a11-be8c-1e38ce683f32
+  world-name: world
+  x: 1136.3635979708154
+  y: 71.0
+  z: -883.8023278991626
+  yaw: -121.09197998046875
+  pitch: 30.899932861328125
+logoutlocation:
+  world: 0c1910d0-c773-4a11-be8c-1e38ce683f32
+  world-name: world
+  x: 1137.4998740728588
+  y: 62.0
+  z: -871.8714351914891
+  yaw: 144.10693359375
+  pitch: -15.749999046325684
+homes:
+  home:
+    world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+    world-name: '1'
+    x: -86.29120184479675
+    y: 98.0
+    z: 1880.983115371423
+    yaw: -109.77227783203125
+    pitch: 22.199953079223633

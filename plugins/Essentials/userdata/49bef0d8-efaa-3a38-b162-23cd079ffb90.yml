@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1643074399317
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1643075581044
+  login: 1643071092420
+money: '0'
+last-account-name: Antisocialpann
+lastlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: -148.24985070893763
+  y: 72.0
+  z: 209.30000001192096
+  yaw: 187.47125244140625
+  pitch: 15.000020027160645
+logoutlocation:
+  world: 67a73dcc-1328-485e-a36a-f3bc9a81811a
+  world-name: '2'
+  x: 410.5240717035041
+  y: 95.0
+  z: -1323.4620855575315
+  yaw: 251.1805419921875
+  pitch: -5.549983501434326

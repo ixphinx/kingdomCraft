@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 187.190.186.161
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1643510180749
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1643510454196
+  login: 1643509745901
+money: '0'
+last-account-name: Dianniwis
+lastlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: -283.81843756748833
+  y: 67.0
+  z: -353.4925434644003
+  yaw: -337.2138671875
+  pitch: 26.849727630615234
+logoutlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: -420.2945539887088
+  y: 79.0
+  z: -27.21093012901322
+  yaw: -279.52294921875
+  pitch: 36.5988883972168
+homes:
+  home:
+    world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+    world-name: '1'
+    x: -33.88681089469483
+    y: 126.0
+    z: 241.4655804734407
+    yaw: -160.04046630859375
+    pitch: 24.29999351501465

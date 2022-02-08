@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 181.130.122.207
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1644014991564
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1644016027971
+  login: 1644016013555
+money: '0'
+last-account-name: sebitas
+lastlocation:
+  world: 0c1910d0-c773-4a11-be8c-1e38ce683f32
+  world-name: world
+  x: 710.8887256899596
+  y: 90.35993344620647
+  z: -590.805643129473
+  yaw: 21.495361328125
+  pitch: 32.550052642822266
+logoutlocation:
+  world: 0c1910d0-c773-4a11-be8c-1e38ce683f32
+  world-name: world
+  x: 787.3472131416706
+  y: 162.26822551178577
+  z: -733.3485131471192
+  yaw: -149.9425811767578
+  pitch: 38.399864196777344

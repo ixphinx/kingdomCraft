@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1643286256759
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1643287461356
+  login: 1643283083785
+money: '0'
+last-account-name: Zana09
+lastlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: 285.7910366250834
+  y: 71.5
+  z: -584.1702510980653
+  yaw: 269.08648681640625
+  pitch: -1.9499586820602417
+logoutlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: 304.58851740117126
+  y: 59.0
+  z: -598.6999999880791
+  yaw: -251.853759765625
+  pitch: 34.34994888305664
+homes:
+  home:
+    world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+    world-name: '1'
+    x: 298.70805200127097
+    y: 64.0
+    z: -584.9738892525178
+    yaw: -122.70008850097656
+    pitch: 36.89999008178711

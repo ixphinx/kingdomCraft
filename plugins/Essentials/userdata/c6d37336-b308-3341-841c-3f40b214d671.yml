@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1642920059387
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1643033941288
+  login: 1643032829148
+money: '0'
+last-account-name: PinfyGirl
+lastlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: -6.052457363028525
+  y: 67.24918707874468
+  z: 19.740325585072323
+  yaw: 31.72039031982422
+  pitch: 13.189005851745605
+logoutlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: -1163.8418356932707
+  y: 70.0
+  z: 346.3928458809452
+  yaw: -194.43829345703125
+  pitch: 15.399405479431152

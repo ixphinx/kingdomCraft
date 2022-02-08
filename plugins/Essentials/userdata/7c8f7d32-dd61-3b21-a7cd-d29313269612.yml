@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 187.188.220.124
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1644018022584
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1644021941168
+  login: 1644021394046
+money: '0'
+last-account-name: SuperYako73
+lastlocation:
+  world: 0c1910d0-c773-4a11-be8c-1e38ce683f32
+  world-name: world
+  x: 2237.249325185723
+  y: 67.0
+  z: -860.2445268284446
+  yaw: -0.30000001192092896
+  pitch: 0.15000000596046448
+logoutlocation:
+  world: 0c1910d0-c773-4a11-be8c-1e38ce683f32
+  world-name: world
+  x: 1137.7099649790007
+  y: 66.0671403690051
+  z: -677.6335349315787
+  yaw: 14.076171875
+  pitch: 10.978828430175781

@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1642646883546
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1642646936069
+  login: 1642646759572
+money: '0'
+last-account-name: Cucho2910
+lastlocation:
+  world: 67a73dcc-1328-485e-a36a-f3bc9a81811a
+  world-name: '2'
+  x: -16.69999998807907
+  y: 69.0
+  z: -134.37320588863344
+  yaw: -0.14755485951900482
+  pitch: -4.349979877471924
+logoutlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: -588.5
+  y: 96.0
+  z: 3067.5
+  yaw: 269.0052490234375
+  pitch: 20.999866485595703
+homes:
+  home:
+    world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+    world-name: '1'
+    x: 53527.81582088914
+    y: 65.0
+    z: 3302.2876874500785
+    yaw: -84.16598510742188
+    pitch: 37.99354934692383

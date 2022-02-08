@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1643048994251
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1643049398329
+  login: 1643048947724
+money: '0'
+last-account-name: ignaciobauer
+lastlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: 1.107465850269966
+  y: 66.0
+  z: -11.2969927092733
+  yaw: -275.11370849609375
+  pitch: 87.83808135986328
+logoutlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: -2648.389133889466
+  y: 68.7531999805212
+  z: 1538.2859789808829
+  yaw: -111.2296142578125
+  pitch: 21.948850631713867

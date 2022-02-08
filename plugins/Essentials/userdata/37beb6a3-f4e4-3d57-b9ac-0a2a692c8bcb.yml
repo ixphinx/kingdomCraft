@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 186.50.100.134
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1643512152695
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1644021941169
+  login: 1644021891618
+money: '0'
+last-account-name: Polus33
+lastlocation:
+  world: 0c1910d0-c773-4a11-be8c-1e38ce683f32
+  world-name: world
+  x: 1138.5
+  y: 71.0
+  z: -882.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: 0c1910d0-c773-4a11-be8c-1e38ce683f32
+  world-name: world
+  x: 1124.5084346063634
+  y: 70.0
+  z: -891.290023060988
+  yaw: 358.9552307128906
+  pitch: 4.349911212921143
+homes:
+  home:
+    world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+    world-name: '1'
+    x: -2670.791825279941
+    y: 152.0
+    z: 1498.7501938895064
+    yaw: -103.42850494384766
+    pitch: 2.2500250339508057

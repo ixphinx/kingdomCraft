@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 186.120.169.51
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1643509948818
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1643510343738
+  login: 1643509874267
+money: '0'
+last-account-name: Andersonjo
+lastlocation:
+  world: 67a73dcc-1328-485e-a36a-f3bc9a81811a
+  world-name: '2'
+  x: -14.215071459369144
+  y: 69.0
+  z: -137.23955344834684
+  yaw: -267.74761962890625
+  pitch: 5.400015354156494
+logoutlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: -2192.3235600813364
+  y: 136.0
+  z: -736.2296726232083
+  yaw: -99.86276245117188
+  pitch: 27.300025939941406
+homes:
+  home:
+    world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+    world-name: '1'
+    x: -2211.7240727512294
+    y: 119.0
+    z: -720.7898674109665
+    yaw: 217.083984375
+    pitch: 13.199902534484863

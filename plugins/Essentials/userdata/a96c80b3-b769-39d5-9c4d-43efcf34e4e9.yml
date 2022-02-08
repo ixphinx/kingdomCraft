@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1642842178834
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1642842280878
+  login: 1642842080713
+money: '0'
+last-account-name: samzpda
+lastlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: -68.6838178180054
+  y: 68.0
+  z: -91.36774622976462
+  yaw: -306.18511962890625
+  pitch: 19.68573570251465
+logoutlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: -461.38315532904653
+  y: 70.0
+  z: 15.046092571666694
+  yaw: -193.078125
+  pitch: 3.6737754344940186
+homes:
+  home:
+    world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+    world-name: '1'
+    x: -494.52056986806866
+    y: 71.0
+    z: -9.694463047359154
+    yaw: 6.286376953125
+    pitch: 30.63612174987793

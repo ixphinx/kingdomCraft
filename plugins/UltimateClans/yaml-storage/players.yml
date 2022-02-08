@@ -1,0 +1,651 @@
+data:
+  035ace88-cdfb-39a0-bc20-339c9db17cac:
+    name: Jopher11733
+    uuid: 035ace88-cdfb-39a0-bc20-339c9db17cac
+    clan_id: a6ab95ee-7065-4a92-a3de-870b490610eb
+    kills: 0
+    deaths: 0
+    souls: 0
+    kdr: 0.0
+    join_date: 1642303674
+    last_seen: 1642925080
+  7a849a5c-8bb9-38fc-a00b-bb3a31b80e07:
+    name: SrReikuz
+    uuid: 7a849a5c-8bb9-38fc-a00b-bb3a31b80e07
+    clan_id: a6ab95ee-7065-4a92-a3de-870b490610eb
+    kills: 2
+    deaths: 1
+    souls: 0
+    kdr: 1.0
+    join_date: 1642303687
+    last_seen: 1642643040
+  b734ae20-f358-371c-92fb-ce1a20bc0108:
+    name: LaDvdCorzo
+    uuid: b734ae20-f358-371c-92fb-ce1a20bc0108
+    clan_id: a6ab95ee-7065-4a92-a3de-870b490610eb
+    kills: 0
+    deaths: 0
+    souls: 0
+    kdr: 0.0
+    join_date: 1642303697
+    last_seen: 1642740956
+  ed0b4374-6bb3-3d86-835d-ddff8e2516d8:
+    name: Cucho2910
+    uuid: ed0b4374-6bb3-3d86-835d-ddff8e2516d8
+    clan_id: a6ab95ee-7065-4a92-a3de-870b490610eb
+    kills: 0
+    deaths: 1
+    souls: 0
+    kdr: 0.0
+    join_date: 1642303703
+    last_seen: 1642642785
+  ba555d89-8826-36a9-a682-628c3e141048:
+    name: GioUwUr
+    uuid: ba555d89-8826-36a9-a682-628c3e141048
+    clan_id: 3f2fa1fd-a870-4977-9b8b-0f7879f0165c
+    kills: 0
+    deaths: 0
+    souls: 0
+    kdr: 0.0
+    join_date: 1642303776
+    last_seen: 1644018900
+  df129393-690b-38ec-a84c-34f430266ba7:
+    name: AX221
+    uuid: df129393-690b-38ec-a84c-34f430266ba7
+    clan_id: 3f2fa1fd-a870-4977-9b8b-0f7879f0165c
+    kills: 1
+    deaths: 1
+    souls: 0
+    kdr: 1.0
+    join_date: 1642303801
+    last_seen: 1643253499
+  79faafed-e2a4-3ee5-a7c9-8219f477f10a:
+    name: Doxwy
+    uuid: 79faafed-e2a4-3ee5-a7c9-8219f477f10a
+    clan_id: 7b156213-0ac5-42ef-8aac-98b23b4e6ee5
+    kills: 0
+    deaths: 0
+    souls: 0
+    kdr: 0.0
+    join_date: 1642304746
+    last_seen: 1643705735
+  a763a444-738e-369a-ae40-e8e2a5a613c1:
+    name: cKimba
+    uuid: a763a444-738e-369a-ae40-e8e2a5a613c1
+    clan_id: bff2ec17-711f-4c2a-8b81-a72a0106b162
+    kills: 1
+    deaths: 1
+    souls: 0
+    kdr: 1.0
+    join_date: 1642307285
+    last_seen: 1643673540
+  ef6b595b-406d-330e-80ec-61c683eed8a6:
+    name: andres
+    uuid: ef6b595b-406d-330e-80ec-61c683eed8a6
+    clan_id: bff2ec17-711f-4c2a-8b81-a72a0106b162
+    kills: 0
+    deaths: 0
+    souls: 0
+    kdr: 0.0
+    join_date: 1642307319
+    last_seen: 1644017496
+  87c39e94-7979-3150-a57c-02865654eeef:
+    name: TheKing_Gio
+    uuid: 87c39e94-7979-3150-a57c-02865654eeef
+    clan_id: bff2ec17-711f-4c2a-8b81-a72a0106b162
+    kills: 0
+    deaths: 0
+    souls: 0
+    kdr: 0.0
+    join_date: 1642307321
+    last_seen: 1642555370
+  fdc5fc6b-9bb6-383e-90b3-bb6cb2796447:
+    name: LeoBanzz
+    uuid: fdc5fc6b-9bb6-383e-90b3-bb6cb2796447
+    clan_id: bff2ec17-711f-4c2a-8b81-a72a0106b162
+    kills: 0
+    deaths: 0
+    souls: 0
+    kdr: 0.0
+    join_date: 1642307348
+    last_seen: 1643157066
+  88ab7721-131d-3120-a6f3-bee0482f20a6:
+    name: ignaciobauer
+    uuid: 88ab7721-131d-3120-a6f3-bee0482f20a6
+    clan_id: bff2ec17-711f-4c2a-8b81-a72a0106b162
+    kills: 1
+    deaths: 0
+    souls: 0
+    kdr: 1.0
+    join_date: 1642307352
+    last_seen: 1643048390
+  8cc0ebf5-630b-3d38-b0ae-84f368bd7d65:
+    name: Nokfor
+    uuid: 8cc0ebf5-630b-3d38-b0ae-84f368bd7d65
+    clan_id: b3b06fce-643f-4ea9-8ea9-00e0b1120a65
+    kills: 0
+    deaths: 0
+    souls: 0
+    kdr: 0.0
+    join_date: 1642308867
+    last_seen: 1643434339
+  227459ce-4dbb-3c81-a9da-2e6e3fe2721d:
+    name: sr_juancastillo
+    uuid: 227459ce-4dbb-3c81-a9da-2e6e3fe2721d
+    clan_id: b3b06fce-643f-4ea9-8ea9-00e0b1120a65
+    kills: 0
+    deaths: 6
+    souls: 0
+    kdr: 0.0
+    join_date: 1642308925
+    last_seen: 1643678716
+  a36a177f-d073-30b3-8748-105fee043399:
+    name: Danilox07
+    uuid: a36a177f-d073-30b3-8748-105fee043399
+    clan_id: b3b06fce-643f-4ea9-8ea9-00e0b1120a65
+    kills: 4
+    deaths: 0
+    souls: 0
+    kdr: 4.0
+    join_date: 1642309049
+    last_seen: 1643305459
+  48c92634-54f7-31f1-b341-038a2bf290c8:
+    name: iSmarvin
+    uuid: 48c92634-54f7-31f1-b341-038a2bf290c8
+    clan_id: b3b06fce-643f-4ea9-8ea9-00e0b1120a65
+    kills: 0
+    deaths: 0
+    souls: 0
+    kdr: 0.0
+    join_date: 1642310508
+    last_seen: 1642310508
+  21ffae59-ce1e-384b-91a3-43b98fb06f57:
+    name: charlywatson
+    uuid: 21ffae59-ce1e-384b-91a3-43b98fb06f57
+    clan_id: d56968d4-9257-479d-b054-d62214f807a3
+    kills: 0
+    deaths: 0
+    souls: 0
+    kdr: 0.0
+    join_date: 1642310991
+    last_seen: 1643508475
+  56d0f003-9c00-3ff7-b5d6-075c2ca78547:
+    name: CaserolaCas
+    uuid: 56d0f003-9c00-3ff7-b5d6-075c2ca78547
+    clan_id: d56968d4-9257-479d-b054-d62214f807a3
+    kills: 0
+    deaths: 1
+    souls: 0
+    kdr: 0.0
+    join_date: 1642311010
+    last_seen: 1644017104
+  78d8c3ea-37d4-3ecc-bbb3-c2fa4ce30322:
+    name: CRGamer_
+    uuid: 78d8c3ea-37d4-3ecc-bbb3-c2fa4ce30322
+    clan_id: d56968d4-9257-479d-b054-d62214f807a3
+    kills: 0
+    deaths: 0
+    souls: 0
+    kdr: 0.0
+    join_date: 1642311034
+    last_seen: 1643508649
+  1b6d91ac-fb2d-308f-93f1-49087ddadb9f:
+    name: itsLeay
+    uuid: 1b6d91ac-fb2d-308f-93f1-49087ddadb9f
+    clan_id: d56968d4-9257-479d-b054-d62214f807a3
+    kills: 0
+    deaths: 0
+    souls: 0
+    kdr: 0.0
+    join_date: 1642311055
+    last_seen: 1643492674
+  b965bcca-3ca9-3b4d-884a-deba55c4e141:
+    name: nan96
+    uuid: b965bcca-3ca9-3b4d-884a-deba55c4e141
+    clan_id: b3b06fce-643f-4ea9-8ea9-00e0b1120a65
+    kills: 0
+    deaths: 1
+    souls: 0
+    kdr: 0.0
+    join_date: 1642311277
+    last_seen: 1643434707
+  f2586cf3-4434-35b5-b742-84d991bebf55:
+    name: Valkryon365
+    uuid: f2586cf3-4434-35b5-b742-84d991bebf55
+    clan_id: 9ffe0467-6b89-493a-9959-0328d52ce636
+    kills: 1
+    deaths: 3
+    souls: 0
+    kdr: 0.0
+    join_date: 1642316699
+    last_seen: 1643678900
+  5848a1ab-3f09-32c4-80c6-db62ae156d09:
+    name: FrannKo
+    uuid: 5848a1ab-3f09-32c4-80c6-db62ae156d09
+    clan_id: 9ffe0467-6b89-493a-9959-0328d52ce636
+    kills: 0
+    deaths: 1
+    souls: 0
+    kdr: 0.0
+    join_date: 1642316940
+    last_seen: 1643064638
+  aa16d7d1-83a8-3654-b415-d46365cfd692:
+    name: Richosbar
+    uuid: aa16d7d1-83a8-3654-b415-d46365cfd692
+    clan_id: 9ffe0467-6b89-493a-9959-0328d52ce636
+    kills: 3
+    deaths: 0
+    souls: 0
+    kdr: 3.0
+    join_date: 1642316944
+    last_seen: 1643673534
+  5e0d2129-5876-3b22-b317-06c52a30d286:
+    name: 0PHY
+    uuid: 5e0d2129-5876-3b22-b317-06c52a30d286
+    clan_id: e0f5f14a-801a-42d1-829d-57924361e091
+    kills: 0
+    deaths: 1
+    souls: 0
+    kdr: 0.0
+    join_date: 1642323610
+    last_seen: 1643172104
+  a6d03cae-462e-3736-827b-bce2696baaf5:
+    name: ElJeambriz
+    uuid: a6d03cae-462e-3736-827b-bce2696baaf5
+    clan_id: e0f5f14a-801a-42d1-829d-57924361e091
+    kills: 2
+    deaths: 2
+    souls: 0
+    kdr: 0.0
+    join_date: 1642323817
+    last_seen: 1643449007
+  5b70f618-a878-3aa9-a945-955029006004:
+    name: Itsrusita
+    uuid: 5b70f618-a878-3aa9-a945-955029006004
+    clan_id: e0f5f14a-801a-42d1-829d-57924361e091
+    kills: 0
+    deaths: 1
+    souls: 0
+    kdr: 0.0
+    join_date: 1642323828
+    last_seen: 1643690000
+  e46a01c9-b3ea-311a-8622-0f9877291bc6:
+    name: IgniteYourSoul
+    uuid: e46a01c9-b3ea-311a-8622-0f9877291bc6
+    clan_id: e0f5f14a-801a-42d1-829d-57924361e091
+    kills: 0
+    deaths: 0
+    souls: 0
+    kdr: 0.0
+    join_date: 1642323838
+    last_seen: 1642997052
+  7c8f7d32-dd61-3b21-a7cd-d29313269612:
+    name: SuperYako73
+    uuid: 7c8f7d32-dd61-3b21-a7cd-d29313269612
+    clan_id: e0f5f14a-801a-42d1-829d-57924361e091
+    kills: 0
+    deaths: 0
+    souls: 0
+    kdr: 0.0
+    join_date: 1642323843
+    last_seen: 1644013785
+  9680a09b-2b61-3eb3-a846-3b32cce736bd:
+    name: Kranehr_09
+    uuid: 9680a09b-2b61-3eb3-a846-3b32cce736bd
+    clan_id: 9ffe0467-6b89-493a-9959-0328d52ce636
+    kills: 1
+    deaths: 0
+    souls: 0
+    kdr: 1.0
+    join_date: 1642366933
+    last_seen: 1643672649
+  85f75eb3-3af8-3dd2-959b-98424968ddf6:
+    name: AnnyWhite
+    uuid: 85f75eb3-3af8-3dd2-959b-98424968ddf6
+    clan_id: 1b1d42bc-2a04-4e61-b910-3fbb7a0711e9
+    kills: 1
+    deaths: 0
+    souls: 0
+    kdr: 1.0
+    join_date: 1642381508
+    last_seen: 1643599701
+  58452e50-af07-3d96-8491-6db463def6e5:
+    name: CesarAg122
+    uuid: 58452e50-af07-3d96-8491-6db463def6e5
+    clan_id: 1b1d42bc-2a04-4e61-b910-3fbb7a0711e9
+    kills: 0
+    deaths: 0
+    souls: 0
+    kdr: 0.0
+    join_date: 1642381539
+    last_seen: 1642708128
+  07785c16-909b-3609-9c0c-44041450545e:
+    name: Bill84
+    uuid: 07785c16-909b-3609-9c0c-44041450545e
+    clan_id: 1b1d42bc-2a04-4e61-b910-3fbb7a0711e9
+    kills: 0
+    deaths: 0
+    souls: 0
+    kdr: 0.0
+    join_date: 1642381559
+    last_seen: 1643427386
+  1e4eeb78-c282-34a9-af07-4e65081c484a:
+    name: El_tonny
+    uuid: 1e4eeb78-c282-34a9-af07-4e65081c484a
+    clan_id: 1b1d42bc-2a04-4e61-b910-3fbb7a0711e9
+    kills: 2
+    deaths: 5
+    souls: 0
+    kdr: 0.0
+    join_date: 1642389541
+    last_seen: 1643679525
+  d05e3121-183c-388f-9ea2-879529f4cc9f:
+    name: maskapito
+    uuid: d05e3121-183c-388f-9ea2-879529f4cc9f
+    clan_id: 1b1d42bc-2a04-4e61-b910-3fbb7a0711e9
+    kills: 0
+    deaths: 0
+    souls: 0
+    kdr: 0.0
+    join_date: 1642391305
+    last_seen: 1643509648
+  bc05e9f3-fce8-36da-b598-a2dbc099524b:
+    name: Nicomania_
+    uuid: bc05e9f3-fce8-36da-b598-a2dbc099524b
+    clan_id: 083d7104-1ffc-4899-a172-d498b7457d39
+    kills: 0
+    deaths: 0
+    souls: 0
+    kdr: 0.0
+    join_date: 1642438509
+    last_seen: 1642533545
+  6fd82bb0-70a8-3145-bac2-5805cadd1d96:
+    name: zBandidoh
+    uuid: 6fd82bb0-70a8-3145-bac2-5805cadd1d96
+    clan_id: 083d7104-1ffc-4899-a172-d498b7457d39
+    kills: 0
+    deaths: 0
+    souls: 0
+    kdr: 0.0
+    join_date: 1642438522
+    last_seen: 1642438522
+  c8fcde63-a461-3ef1-9bc6-e3ed23345d52:
+    name: Fernand058T
+    uuid: c8fcde63-a461-3ef1-9bc6-e3ed23345d52
+    clan_id: 083d7104-1ffc-4899-a172-d498b7457d39
+    kills: 0
+    deaths: 0
+    souls: 0
+    kdr: 0.0
+    join_date: 1642438522
+    last_seen: 1642534629
+  58391e53-92cf-3756-bce7-561e42dd62fd:
+    name: GIknex2xd
+    uuid: 58391e53-92cf-3756-bce7-561e42dd62fd
+    clan_id: 083d7104-1ffc-4899-a172-d498b7457d39
+    kills: 0
+    deaths: 0
+    souls: 0
+    kdr: 0.0
+    join_date: 1642438785
+    last_seen: 1642697275
+  556909b0-2a4e-374f-8238-0fc988472b50:
+    name: mikamint
+    uuid: 556909b0-2a4e-374f-8238-0fc988472b50
+    clan_id: 41302c7c-5466-4532-8ea5-27e051ad906c
+    kills: 0
+    deaths: 1
+    souls: 0
+    kdr: 0.0
+    join_date: 1642453806
+    last_seen: 1643505910
+  c15f4654-f0c6-3bfa-99fb-0458b70ac0bc:
+    name: Nirmax
+    uuid: c15f4654-f0c6-3bfa-99fb-0458b70ac0bc
+    clan_id: 41302c7c-5466-4532-8ea5-27e051ad906c
+    kills: 2
+    deaths: 0
+    souls: 0
+    kdr: 2.0
+    join_date: 1642453892
+    last_seen: 1643502456
+  8c75bdcf-894b-38b5-bb67-3261631cc58a:
+    name: Zero
+    uuid: 8c75bdcf-894b-38b5-bb67-3261631cc58a
+    clan_id: 41302c7c-5466-4532-8ea5-27e051ad906c
+    kills: 0
+    deaths: 0
+    souls: 0
+    kdr: 0.0
+    join_date: 1642454777
+    last_seen: 1642454777
+  a28bfbc7-7c66-3661-8e8a-ec63f4919666:
+    name: p1per
+    uuid: a28bfbc7-7c66-3661-8e8a-ec63f4919666
+    clan_id: 41302c7c-5466-4532-8ea5-27e051ad906c
+    kills: 0
+    deaths: 1
+    souls: 0
+    kdr: 0.0
+    join_date: 1642454782
+    last_seen: 1643492409
+  f74ebe2f-ff33-3d4f-a6ec-b9171bd6bd1e:
+    name: Rubiuzch
+    uuid: f74ebe2f-ff33-3d4f-a6ec-b9171bd6bd1e
+    clan_id: fb22efc4-e05c-4309-8d99-aa0fe7acc449
+    kills: 18
+    deaths: 2
+    souls: 0
+    kdr: 9.0
+    join_date: 1642467756
+    last_seen: 1644013485
+  b3e8a6d8-6965-3b33-9c0f-090a858f3061:
+    name: aslovax
+    uuid: b3e8a6d8-6965-3b33-9c0f-090a858f3061
+    clan_id: 4025ef5f-c426-46ed-8b27-c2b4cd694248
+    kills: 0
+    deaths: 2
+    souls: 0
+    kdr: 0.0
+    join_date: 1642469721
+    last_seen: 1643097710
+  3d381b86-2048-31a0-ace9-12cdd96e2774:
+    name: leandro280400
+    uuid: 3d381b86-2048-31a0-ace9-12cdd96e2774
+    clan_id: 4025ef5f-c426-46ed-8b27-c2b4cd694248
+    kills: 1
+    deaths: 2
+    souls: 0
+    kdr: 0.0
+    join_date: 1642470031
+    last_seen: 1643496509
+  8798b9b4-eee6-3ba7-901f-ac0711eb9bc9:
+    name: 6MrSicario9
+    uuid: 8798b9b4-eee6-3ba7-901f-ac0711eb9bc9
+    clan_id: 4025ef5f-c426-46ed-8b27-c2b4cd694248
+    kills: 0
+    deaths: 3
+    souls: 0
+    kdr: 0.0
+    join_date: 1642470163
+    last_seen: 1643137142
+  49bef0d8-efaa-3a38-b162-23cd079ffb90:
+    name: Antisocialpann
+    uuid: 49bef0d8-efaa-3a38-b162-23cd079ffb90
+    clan_id: 4025ef5f-c426-46ed-8b27-c2b4cd694248
+    kills: 0
+    deaths: 0
+    souls: 0
+    kdr: 0.0
+    join_date: 1642470398
+    last_seen: 1643070646
+  29951076-9276-32e7-8d57-26bdd5764c0f:
+    name: julf0
+    uuid: 29951076-9276-32e7-8d57-26bdd5764c0f
+    clan_id: 41302c7c-5466-4532-8ea5-27e051ad906c
+    kills: 0
+    deaths: 0
+    souls: 0
+    kdr: 0.0
+    join_date: 1642613743
+    last_seen: 1643495352
+  63e88dca-1183-3654-84d4-299c07175b55:
+    name: carlos_caboo
+    uuid: 63e88dca-1183-3654-84d4-299c07175b55
+    clan_id: bff2ec17-711f-4c2a-8b81-a72a0106b162
+    kills: 0
+    deaths: 0
+    souls: 0
+    kdr: 0.0
+    join_date: 1642651646
+    last_seen: 1642651646
+  2e7d886a-b9f3-3916-af8b-149a7f839297:
+    name: GonQ
+    uuid: 2e7d886a-b9f3-3916-af8b-149a7f839297
+    clan_id: 41302c7c-5466-4532-8ea5-27e051ad906c
+    kills: 0
+    deaths: 2
+    souls: 0
+    kdr: 0.0
+    join_date: 1642725151
+    last_seen: 1643496721
+  b9f43f9f-5448-3cc5-b39d-50fd0006d127:
+    name: TyrionDJ
+    uuid: b9f43f9f-5448-3cc5-b39d-50fd0006d127
+    clan_id: 4025ef5f-c426-46ed-8b27-c2b4cd694248
+    kills: 0
+    deaths: 0
+    souls: 0
+    kdr: 0.0
+    join_date: 1642727748
+    last_seen: 1642727748
+  37beb6a3-f4e4-3d57-b9ac-0a2a692c8bcb:
+    name: Polus33
+    uuid: 37beb6a3-f4e4-3d57-b9ac-0a2a692c8bcb
+    clan_id: bff2ec17-711f-4c2a-8b81-a72a0106b162
+    kills: 0
+    deaths: 2
+    souls: 0
+    kdr: 0.0
+    join_date: 1642732781
+    last_seen: 1644021275
+  b50b234c-b167-315e-9727-c9e01a8ffec7:
+    name: LaeE3
+    uuid: b50b234c-b167-315e-9727-c9e01a8ffec7
+    clan_id: 98961cb1-36db-43fe-8144-794b4a695717
+    kills: 0
+    deaths: 1
+    souls: 0
+    kdr: 0.0
+    join_date: 1642748810
+    last_seen: 1643631277
+  43a9b960-65f8-3669-a8db-6d71f2c0adfa:
+    name: Zana09
+    uuid: 43a9b960-65f8-3669-a8db-6d71f2c0adfa
+    clan_id: 98961cb1-36db-43fe-8144-794b4a695717
+    kills: 0
+    deaths: 0
+    souls: 0
+    kdr: 0.0
+    join_date: 1642748838
+    last_seen: 1643241115
+  a347441d-93f6-306c-bc8a-faaf56815e6c:
+    name: Abu1601
+    uuid: a347441d-93f6-306c-bc8a-faaf56815e6c
+    clan_id: c55f1d14-d9ca-45e0-8496-b047448e0559
+    kills: 3
+    deaths: 3
+    souls: 0
+    kdr: 0.0
+    join_date: 1642748990
+    last_seen: 1644013381
+  a7af222b-54fc-33bb-aea3-903cfcff4d40:
+    name: FioSanabria
+    uuid: a7af222b-54fc-33bb-aea3-903cfcff4d40
+    clan_id: c55f1d14-d9ca-45e0-8496-b047448e0559
+    kills: 0
+    deaths: 0
+    souls: 0
+    kdr: 0.0
+    join_date: 1642749080
+    last_seen: 1644014251
+  9fdbf0aa-ed96-3c37-a0f5-20f643b434ea:
+    name: MILLAN0804
+    uuid: 9fdbf0aa-ed96-3c37-a0f5-20f643b434ea
+    clan_id: c55f1d14-d9ca-45e0-8496-b047448e0559
+    kills: 1
+    deaths: 1
+    souls: 0
+    kdr: 0.0
+    join_date: 1642796455
+    last_seen: 1643133484
+  7052e640-59c1-37e9-961b-3974a2487561:
+    name: EdwinNorth
+    uuid: 7052e640-59c1-37e9-961b-3974a2487561
+    clan_id: e0b949f5-1434-46c1-b10b-2bcfde32327a
+    kills: 0
+    deaths: 0
+    souls: 0
+    kdr: 0.0
+    join_date: 1642923630
+    last_seen: 1643077710
+  49c47bd4-65e4-3c62-a088-57f23366e045:
+    name: adriano012
+    uuid: 49c47bd4-65e4-3c62-a088-57f23366e045
+    clan_id: e0b949f5-1434-46c1-b10b-2bcfde32327a
+    kills: 0
+    deaths: 0
+    souls: 0
+    kdr: 0.0
+    join_date: 1642924082
+    last_seen: 1642924082
+  c6d37336-b308-3341-841c-3f40b214d671:
+    name: PinfyGirl
+    uuid: c6d37336-b308-3341-841c-3f40b214d671
+    clan_id: e0b949f5-1434-46c1-b10b-2bcfde32327a
+    kills: 0
+    deaths: 0
+    souls: 0
+    kdr: 0.0
+    join_date: 1642924348
+    last_seen: 1643032829
+  0ae5542f-726f-3432-ba27-0406ab154b47:
+    name: Kevo1422
+    uuid: 0ae5542f-726f-3432-ba27-0406ab154b47
+    clan_id: b3b06fce-643f-4ea9-8ea9-00e0b1120a65
+    kills: 0
+    deaths: 0
+    souls: 0
+    kdr: 0.0
+    join_date: 1643171072
+    last_seen: 1643171072
+  31c15294-3fe4-3d46-9cee-0d11fcd8f2fe:
+    name: ABreChaizZ
+    uuid: 31c15294-3fe4-3d46-9cee-0d11fcd8f2fe
+    clan_id: 553e7a39-e0b1-4376-a5c2-69937288cd85
+    kills: 1
+    deaths: 0
+    souls: 0
+    kdr: 1.0
+    join_date: 1643233329
+    last_seen: 1643918150
+  e2d82718-4118-3569-bd09-345efb77af96:
+    name: sapo_csm
+    uuid: e2d82718-4118-3569-bd09-345efb77af96
+    clan_id: 9ffe0467-6b89-493a-9959-0328d52ce636
+    kills: 0
+    deaths: 0
+    souls: 0
+    kdr: 0.0
+    join_date: 1643258440
+    last_seen: 1643508266
+  c93eddee-bb3e-30b2-8744-92a8288f4104:
+    name: chepequique
+    uuid: c93eddee-bb3e-30b2-8744-92a8288f4104
+    clan_id: d56968d4-9257-479d-b054-d62214f807a3
+    kills: 0
+    deaths: 0
+    souls: 0
+    kdr: 0.0
+    join_date: 1643510705
+    last_seen: 1644020665

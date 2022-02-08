@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1642556100612
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1642635853123
+  login: 1642635541944
+money: '0'
+last-account-name: TheKing_Gio
+lastlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: 89.61531694508544
+  y: 10.0
+  z: 36.72471801311733
+  yaw: 224.3929443359375
+  pitch: 5.58027458190918
+logoutlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: 64.81890870697991
+  y: 63.0
+  z: -15.336692299641788
+  yaw: -93.91413116455078
+  pitch: 19.79850196838379

@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1642745303919
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1642747131257
+  login: 1642740786817
+money: '0'
+last-account-name: Jordyes
+lastlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: -550.4967363910197
+  y: 67.0
+  z: 3101.0617375350707
+  yaw: 237.32147216796875
+  pitch: 26.850059509277344
+homes:
+  home:
+    world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+    world-name: '1'
+    x: -589.0103774208529
+    y: 97.0
+    z: 3065.3525879484623
+    yaw: 318.3203125
+    pitch: 10.288125038146973
+logoutlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: -550.4555006348915
+  y: 107.0
+  z: 3063.4901030938013
+  yaw: -277.7855224609375
+  pitch: 1.949867606163025

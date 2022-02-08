@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1642925975435
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1642992152791
+  login: 1642991822740
+money: '0'
+last-account-name: adriano012
+lastlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: -1803.942370524235
+  y: 68.0
+  z: 1445.2314133132727
+  yaw: -199.88113403320312
+  pitch: 9.049470901489258
+logoutlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: -1201.487500011921
+  y: 71.0
+  z: 309.5834470819903
+  yaw: -164.20260620117188
+  pitch: 38.099918365478516

@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1642542480631
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1642673662956
+  login: 1642672303703
+money: '0'
+last-account-name: The_Inge
+lastlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: 302.27706272600966
+  y: 81.0
+  z: -591.5770532942498
+  yaw: 138.4498291015625
+  pitch: 52.350006103515625
+homes:
+  home:
+    world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+    world-name: '1'
+    x: 297.277410259082
+    y: 64.5625
+    z: -589.035945709272
+    yaw: 196.1193084716797
+    pitch: 29.854637145996094
+logoutlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: 302.54911601672603
+  y: 64.0
+  z: -599.2865593645812
+  yaw: 5.2940673828125
+  pitch: 9.150016784667969

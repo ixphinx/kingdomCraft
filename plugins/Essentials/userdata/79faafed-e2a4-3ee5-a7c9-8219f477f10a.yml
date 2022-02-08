@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 5.225.132.208
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1642312170259
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1643706445324
+  login: 1643705735676
+money: '0'
+last-account-name: Doxwy
+lastlocation:
+  world: 0c1910d0-c773-4a11-be8c-1e38ce683f32
+  world-name: world
+  x: 1133.5
+  y: 70.0
+  z: -881.5
+  yaw: 0.7888634204864502
+  pitch: 0.0
+logoutlocation:
+  world: 0c1910d0-c773-4a11-be8c-1e38ce683f32
+  world-name: world
+  x: 1142.987243852267
+  y: 71.0
+  z: -895.4451043406827
+  yaw: 241.42401123046875
+  pitch: 19.433591842651367

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1642317585943
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1642317965731
+  login: 1642313600954
+money: '0'
+last-account-name: Jose_Genes
+lastlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: 34.95035754359124
+  y: 84.13288175089029
+  z: 3127.200694384329
+  yaw: -224.9638671875
+  pitch: 20.197839736938477
+logoutlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: -898.2297374973286
+  y: 64.0
+  z: 2894.65549505593
+  yaw: -43.313934326171875
+  pitch: 32.99996566772461

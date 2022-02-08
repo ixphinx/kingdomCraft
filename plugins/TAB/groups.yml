@@ -1,0 +1,29 @@
+Dios:
+  tabprefix: "&e&lDIOS &7"
+  tagprefix: "&e&lDIOS &7"
+Ayudante:
+  tabprefix: "&9&lAYUDANTE &7"
+  tagprefix: "&9&lAYUDANTE &7"
+Streamer:
+  tabprefix: "&5&lSTREAMER &7"
+  tagprefix: "&5&lSTREAMER &7"
+default:
+  tabprefix: "&7"
+  tagprefix: "&7"
+example_group:
+  header:
+    - "This is an example of per-group header/footer"
+  footer:
+    - "applied to a group"
+
+ # default settings for all groups, all groups will take properties from this section unless player's primary group overrides a specific setting
+_DEFAULT_:
+  tabprefix: "%vault-prefix%"
+  tagprefix: "%vault-prefix%"
+  tabsuffix: "&e &e[&c%uclans_hasclan_formated%&e]"
+
+per-world:
+  world1:
+    Owner:
+      tabprefix: "&0&l[&a&lOwner&0&l] &a"
+      tagprefix: "&2&lOwner &a"

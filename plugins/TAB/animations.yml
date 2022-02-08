@@ -1,0 +1,26 @@
+SpaceMoonTab:
+  change-interval: 100
+  texts:
+  - '&e&LSPACEMOON'
+  - '&F&LS&e&LPACEMOON'
+  - '&F&LSP&e&LACEMOON'
+  - '&F&LSPA&e&LCEMOON'
+  - '&F&LSPAC&e&LEMOON'
+  - '&F&LSPACE&e&LMOON'
+  - '&e&LS&F&LPACEM&e&LOON'
+  - '&e&LSP&F&LACEMO&e&LON'
+  - '&e&LSPA&F&LCEMOO&e&LN'
+  - '&e&LSPAC&F&LEMOON'
+  - '&e&LSPACE&F&LMOON'
+  - '&e&LSPACEM&F&LOON'
+  - '&e&LSPACEMO&F&LON'
+  - '&e&LSPACEMOO&F&LN'
+  - '&e&LSPACEMOON'
+  - '&e&LSPACEMOON'
+barcolors:
+  change-interval: 1000
+  texts:
+    - RED
+    - BLUE
+    - GREEN
+    - YELLOW

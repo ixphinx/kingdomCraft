@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1642727653156
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1642730344884
+  login: 1642730148582
+money: '0'
+last-account-name: TyrionDJ
+lastlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: -1683.255523413828
+  y: 64.0
+  z: 318.2560023184979
+  yaw: 194.4686279296875
+  pitch: 9.150249481201172
+logoutlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: -418.6437308798927
+  y: 71.0
+  z: 117.00766632048754
+  yaw: -297.5945129394531
+  pitch: 7.950015068054199

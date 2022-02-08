@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1642924420811
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1643079993886
+  login: 1643077710445
+money: '0'
+last-account-name: EdwinNorth
+lastlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: -71.06411105454202
+  y: 77.76636799395752
+  z: -541.6928807510101
+  yaw: -180.65362548828125
+  pitch: 79.20001220703125
+logoutlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: -2152.7675130963107
+  y: 29.0
+  z: 37.791541273782805
+  yaw: 316.91827392578125
+  pitch: 40.499961853027344

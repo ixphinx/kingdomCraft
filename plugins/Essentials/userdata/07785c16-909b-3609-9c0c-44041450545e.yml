@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 181.26.196.44
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1643441575857
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1643510748114
+  login: 1643510732345
+money: '0'
+last-account-name: Bill84
+lastlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: -1562.567243314555
+  y: 63.0
+  z: -3499.605021730135
+  yaw: 282.3157958984375
+  pitch: 2.6103174686431885
+logoutlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: -1793.678821444512
+  y: 25.0
+  z: -2533.2790448431224
+  yaw: 142.72125244140625
+  pitch: 5.1920366287231445
+homes:
+  home:
+    world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+    world-name: '1'
+    x: -1552.2778165592247
+    y: 63.0
+    z: -3495.250405598007
+    yaw: 85.5299072265625
+    pitch: 14.22828483581543

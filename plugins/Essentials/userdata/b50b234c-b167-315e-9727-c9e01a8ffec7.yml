@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 187.135.39.170
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1643675727190
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1643699414084
+  login: 1643699384041
+money: '0'
+last-account-name: LaeE3
+lastlocation:
+  world: 0c1910d0-c773-4a11-be8c-1e38ce683f32
+  world-name: world
+  x: 668.3046024033894
+  y: 64.0
+  z: -1112.6803515385363
+  yaw: -20.10693359375
+  pitch: 1.4998563528060913
+logoutlocation:
+  world: 0c1910d0-c773-4a11-be8c-1e38ce683f32
+  world-name: world
+  x: 1556.55233550591
+  y: 77.92159999847412
+  z: -152.3399384770621
+  yaw: -107.06396484375
+  pitch: 31.499984741210938
+homes:
+  home:
+    world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+    world-name: '1'
+    x: 302.2859472058433
+    y: 64.0
+    z: -592.2856741846683
+    yaw: 78.66128540039062
+    pitch: 20.85004234313965

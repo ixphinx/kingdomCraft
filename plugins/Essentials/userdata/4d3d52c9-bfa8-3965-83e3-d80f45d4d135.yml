@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1642902278944
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1642902731486
+  login: 1642901890323
+money: '0'
+last-account-name: SHELDOC
+lastlocation:
+  world: d0104e9f-2b3b-4c57-a5af-9761fe0033d8
+  world-name: '3'
+  x: 84.21507243786085
+  y: 86.0
+  z: -1109.7798506568083
+  yaw: -181.6749267578125
+  pitch: 23.24962615966797
+logoutlocation:
+  world: d0104e9f-2b3b-4c57-a5af-9761fe0033d8
+  world-name: '3'
+  x: 91.10977777277704
+  y: 94.01338276546002
+  z: -1139.6629195959488
+  yaw: -207.90911865234375
+  pitch: 17.999984741210938

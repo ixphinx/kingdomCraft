@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 179.43.94.162
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1643683116190
+  login: 1643680730564
+money: '0'
+last-account-name: dinomichi
+lastlocation:
+  world: 0c1910d0-c773-4a11-be8c-1e38ce683f32
+  world-name: world
+  x: 668.3046024033894
+  y: 63.0
+  z: -1112.6803515385363
+  yaw: -20.10693359375
+  pitch: 1.4998563528060913
+logoutlocation:
+  world: 0c1910d0-c773-4a11-be8c-1e38ce683f32
+  world-name: world
+  x: 2035.0564131554654
+  y: 104.0
+  z: -604.7754381233859
+  yaw: -58.04473876953125
+  pitch: 17.84957504272461

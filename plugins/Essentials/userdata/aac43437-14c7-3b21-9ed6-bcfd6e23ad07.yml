@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1642471531408
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1642472151721
+  login: 1642467230477
+money: '0'
+last-account-name: Lord_Killer
+lastlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: -473.5030809277036
+  y: 70.0
+  z: -4.9937999512122095
+  yaw: 172.6493682861328
+  pitch: 7.1999430656433105
+logoutlocation:
+  world: 67a73dcc-1328-485e-a36a-f3bc9a81811a
+  world-name: '2'
+  x: -14.724638168792337
+  y: 69.0
+  z: -134.18713717141722
+  yaw: 340.953369140625
+  pitch: 23.399967193603516
+homes:
+  home:
+    world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+    world-name: '1'
+    x: -455.1280834073772
+    y: 63.0
+    z: 284.30000001192093
+    yaw: -346.2169189453125
+    pitch: 40.19987487792969

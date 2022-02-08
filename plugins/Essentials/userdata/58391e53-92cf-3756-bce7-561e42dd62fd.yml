@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1642604560074
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1642697335607
+  login: 1642697275478
+money: '0'
+last-account-name: GIknex2xd
+lastlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: 13.349060332421265
+  y: 67.0
+  z: -3.057121209608859
+  yaw: -106.09636688232422
+  pitch: 11.769920349121094
+logoutlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: 939.7939821358508
+  y: 71.0
+  z: -1233.072686390322
+  yaw: 83.51876831054688
+  pitch: -10.81815242767334

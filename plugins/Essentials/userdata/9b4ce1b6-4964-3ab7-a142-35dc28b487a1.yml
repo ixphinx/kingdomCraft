@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 187.189.188.208
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1643686151447
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1643687240164
+  login: 1643682363823
+money: '0'
+last-account-name: dannymt
+lastlocation:
+  world: 0c1910d0-c773-4a11-be8c-1e38ce683f32
+  world-name: world
+  x: 1280.212666935387
+  y: 89.89473024788107
+  z: 188.73707539767534
+  yaw: -216.6952362060547
+  pitch: 63.300071716308594
+logoutlocation:
+  world: 0c1910d0-c773-4a11-be8c-1e38ce683f32
+  world-name: world
+  x: 1806.489533681864
+  y: 201.25451537401466
+  z: -221.89548294803345
+  yaw: 142.45260620117188
+  pitch: 46.20050811767578
+homes:
+  home:
+    world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+    world-name: '1'
+    x: -734.9076595326633
+    y: 186.0
+    z: -539.5031509824479
+    yaw: -299.1826171875
+    pitch: 16.375843048095703

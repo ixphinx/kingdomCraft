@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 189.180.83.241
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1644017991891
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1644018367662
+  login: 1644013662413
+money: '0'
+last-account-name: Abu1601
+lastlocation:
+  world: 0c1910d0-c773-4a11-be8c-1e38ce683f32
+  world-name: world
+  x: 953.1682678641001
+  y: 11.0
+  z: -880.7984200895904
+  yaw: -211.373046875
+  pitch: 21.45012092590332
+logoutlocation:
+  world: 0c1910d0-c773-4a11-be8c-1e38ce683f32
+  world-name: world
+  x: 938.2091377347947
+  y: 11.0
+  z: -955.187675954421
+  yaw: 128.6885528564453
+  pitch: 5.785477161407471
+homes:
+  home:
+    world: 0c1910d0-c773-4a11-be8c-1e38ce683f32
+    world-name: world
+    x: 780.4274405347476
+    y: 126.0
+    z: -712.1060244455865
+    yaw: -258.3856201171875
+    pitch: 10.385496139526367

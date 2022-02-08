@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 148.255.134.152
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1643792509280
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1643917950476
+  login: 1643917949883
+money: '0'
+last-account-name: ABreChaizZ
+lastlocation:
+  world: 0c1910d0-c773-4a11-be8c-1e38ce683f32
+  world-name: world
+  x: 1302.5
+  y: 70.0
+  z: -853.5
+  yaw: -215.90769958496094
+  pitch: 31.0498104095459
+logoutlocation:
+  world: 0c1910d0-c773-4a11-be8c-1e38ce683f32
+  world-name: world
+  x: 1302.5
+  y: 69.45276798785399
+  z: -853.5
+  yaw: -215.90769958496094
+  pitch: 31.0498104095459

@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1642742213096
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1642743286244
+  login: 1642740956255
+money: '0'
+last-account-name: LaDvdCorzo
+lastlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: -577.3237165100969
+  y: 67.0
+  z: 3101.1164272714445
+  yaw: -246.094482421875
+  pitch: 14.549980163574219
+logoutlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: -606.4614274635773
+  y: 67.0
+  z: 3086.960108388628
+  yaw: -169.806396484375
+  pitch: 11.563376426696777
+homes:
+  home:
+    world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+    world-name: '1'
+    x: -590.8070131049842
+    y: 97.0
+    z: 3077.427745124656
+    yaw: 104.60546875
+    pitch: 18.74984359741211

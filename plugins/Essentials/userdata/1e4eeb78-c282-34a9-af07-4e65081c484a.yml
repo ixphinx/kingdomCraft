@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 38.65.147.24
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1643679712689
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1643680938353
+  login: 1643680928747
+money: '0'
+last-account-name: El_tonny
+lastlocation:
+  world: 0c1910d0-c773-4a11-be8c-1e38ce683f32
+  world-name: world
+  x: 907.4839602347022
+  y: 104.65202761177797
+  z: -874.3338202913113
+  yaw: 55.2049560546875
+  pitch: 28.19996452331543
+logoutlocation:
+  world: 0c1910d0-c773-4a11-be8c-1e38ce683f32
+  world-name: world
+  x: 1098.3154355027666
+  y: 94.72858855546878
+  z: -105.46982406977783
+  yaw: 274.6110534667969
+  pitch: 55.20000076293945
+homes:
+  home:
+    world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+    world-name: '1'
+    x: -1563.516468587855
+    y: 63.0
+    z: -3500.514501554737
+    yaw: -323.5937194824219
+    pitch: 54.24103927612305

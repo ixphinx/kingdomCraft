@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 190.5.63.107
+afk: true
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1644020449022
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1644021941141
+  login: 1644013485878
+money: '0'
+last-account-name: Rubiuzch
+lastlocation:
+  world: 0c1910d0-c773-4a11-be8c-1e38ce683f32
+  world-name: world
+  x: 1133.007525599571
+  y: 70.0
+  z: -905.328982969343
+  yaw: -191.09982299804688
+  pitch: 1.9500073194503784
+logoutlocation:
+  world: 0c1910d0-c773-4a11-be8c-1e38ce683f32
+  world-name: world
+  x: 780.5646366807476
+  y: 69.73103992206838
+  z: 237.46142783828435
+  yaw: 0.6214433908462524
+  pitch: 28.490663528442383
+homes:
+  home:
+    world: 0c1910d0-c773-4a11-be8c-1e38ce683f32
+    world-name: world
+    x: 1629.4579259066604
+    y: 63.0
+    z: -403.3813005533217
+    yaw: -303.263427734375
+    pitch: -0.1340259611606598

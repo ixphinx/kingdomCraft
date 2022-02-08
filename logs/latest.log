@@ -1,0 +1,411 @@
+[01:15:40] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[01:15:40] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[01:15:40] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[01:15:40] [main/DEBUG] [FML]: Injecting tracing printstreams for STDOUT/STDERR.
+[01:15:40] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[01:15:40] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_321, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_321
+[01:15:40] [main/DEBUG] [FML]: Java classpath at launch is:
+[01:15:40] [main/DEBUG] [FML]:     server.jar
+[01:15:40] [main/DEBUG] [FML]: Java library path at launch is:
+[01:15:40] [main/DEBUG] [FML]:     C:\Program Files (x86)\Common Files\Oracle\Java\javapath
+[01:15:40] [main/DEBUG] [FML]:     C:\WINDOWS\Sun\Java\bin
+[01:15:40] [main/DEBUG] [FML]:     C:\WINDOWS\system32
+[01:15:40] [main/DEBUG] [FML]:     C:\WINDOWS
+[01:15:40] [main/DEBUG] [FML]:     C:\Program Files (x86)\Common Files\Oracle\Java\javapath
+[01:15:40] [main/DEBUG] [FML]:     C:\Python310\Scripts\
+[01:15:40] [main/DEBUG] [FML]:     C:\Python310\
+[01:15:40] [main/DEBUG] [FML]:     C:\Windows\system32
+[01:15:40] [main/DEBUG] [FML]:     C:\Windows
+[01:15:40] [main/DEBUG] [FML]:     C:\Windows\System32\Wbem
+[01:15:40] [main/DEBUG] [FML]:     C:\Windows\System32\WindowsPowerShell\v1.0\
+[01:15:40] [main/DEBUG] [FML]:     C:\Windows\System32\OpenSSH\
+[01:15:40] [main/DEBUG] [FML]:     C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common
+[01:15:40] [main/DEBUG] [FML]:     C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR
+[01:15:40] [main/DEBUG] [FML]:     C:\Program Files\nodejs\
+[01:15:40] [main/DEBUG] [FML]:     C:\ProgramData\chocolatey\bin
+[01:15:40] [main/DEBUG] [FML]:     
+[01:15:40] [main/DEBUG] [FML]:     C:\Program Files\Docker\Docker\resources\bin
+[01:15:40] [main/DEBUG] [FML]:     C:\ProgramData\DockerDesktop\version-bin
+[01:15:40] [main/DEBUG] [FML]:     C:\WINDOWS\system32
+[01:15:40] [main/DEBUG] [FML]:     C:\WINDOWS
+[01:15:40] [main/DEBUG] [FML]:     C:\WINDOWS\System32\Wbem
+[01:15:40] [main/DEBUG] [FML]:     C:\WINDOWS\System32\WindowsPowerShell\v1.0\
+[01:15:40] [main/DEBUG] [FML]:     C:\WINDOWS\System32\OpenSSH\
+[01:15:40] [main/DEBUG] [FML]:     C:\Program Files\Amazon\AWSCLI\bin\
+[01:15:40] [main/DEBUG] [FML]:     C:\Users\Richard\AppData\Local\Microsoft\WindowsApps
+[01:15:40] [main/DEBUG] [FML]:     
+[01:15:40] [main/DEBUG] [FML]:     C:\Users\Richard\AppData\Local\Programs\Microsoft VS Code\bin
+[01:15:40] [main/DEBUG] [FML]:     C:\Users\Richard\AppData\Roaming\npm
+[01:15:40] [main/DEBUG] [FML]:     .
+[01:15:40] [main/DEBUG] [FML]: Determined Minecraft Libraries Root: .\libraries
+[01:15:40] [main/DEBUG] [FML]: Cleaning up mods folder: .\mods
+[01:15:40] [main/DEBUG] [FML]: Examining file: astikorcarts-1.12.2-0.1.2.8.jar
+[01:15:40] [main/DEBUG] [FML]: Examining file: BiblioCraft[v2.4.3][MC1.12.0].jar
+[01:15:40] [main/DEBUG] [FML]: Examining file: BiomesYouGo1.7.1.jar
+[01:15:40] [main/DEBUG] [FML]: Examining file: ColossalChests-1.12.2-1.7.3.jar
+[01:15:40] [main/DEBUG] [FML]: Examining file: Comes-Alive-espanol.jar
+[01:15:40] [main/DEBUG] [FML]: Examining file: conarm-1.12.2-1.2.5.10.jar
+[01:15:40] [main/DEBUG] [FML]: Examining file: CreativeCore_v1.10.69_mc1.12.2.jar
+[01:15:40] [main/DEBUG] [FML]: Examining file: Currency-1.12.0-1.3.11.jar
+[01:15:40] [main/DEBUG] [FML]: Examining file: CustomNPCs_1.12.2-(01Oct19).jar
+[01:15:40] [main/DEBUG] [FML]: Examining file: CyclopsCore-1.12.2-1.6.4.jar
+[01:15:40] [main/DEBUG] [FML]: Examining file: Drugs_and_Psychedelics-1_12_2.jar
+[01:15:40] [main/DEBUG] [FML]: Examining file: ElectroblobsWizardry-4.3.4-MC1.12.2.jar
+[01:15:40] [main/DEBUG] [FML]: Examining file: EnhancedVisuals_v1.3.18_mc1.12.2.jar
+[01:15:40] [main/DEBUG] [FML]: Examining file: GottschCore-mc1.12.2-f14.23.5.2854-v1.14.0.jar
+[01:15:40] [main/DEBUG] [FML]: Examining file: growthcraft-1.12.2-4.2.2.1.jar
+[01:15:40] [main/DEBUG] [FML]: Examining file: Hwyla-1.8.26-B41_1.12.2.jar
+[01:15:40] [main/DEBUG] [FML]: Examining file: industrialcraft-2-2.8.170-ex112.jar
+[01:15:40] [main/DEBUG] [FML]: Examining file: InfernalMobs-1.12.1.jar
+[01:15:40] [main/DEBUG] [FML]: Examining file: jei_1.12.2-4.15.0.289.jar
+[01:15:40] [main/DEBUG] [FML]: Examining file: LeatherWorks-1.12-1.78.0.42.jar
+[01:15:40] [main/DEBUG] [FML]: Examining file: llibrary-1.7.19-1.12.2.jar
+[01:15:40] [main/DEBUG] [FML]: Found existing ContainedDep llibrary-core-1.0.11-1.12.2.jar(net.ilexiconn:llibrary-core:1.0.11-1.12.2) from C:\Users\Richard\Desktop\kindoms\mods\memory_repo\net\ilexiconn\llibrary-core\1.0.11-1.12.2\llibrary-core-1.0.11-1.12.2.jar extracted to .\mods\llibrary-1.7.19-1.12.2.jar, skipping extraction
+[01:15:40] [main/DEBUG] [FML]: Examining file: llibrary-core-1.0.11-1.12.2.jar
+[01:15:40] [main/DEBUG] [FML]: Making maven link for net.ilexiconn:llibrary:1.7.19-1.12.2 in memory to C:\Users\Richard\Desktop\kindoms\.\mods\llibrary-1.7.19-1.12.2.jar.
+[01:15:40] [main/DEBUG] [FML]: Examining file: LunatriusCore-1.12.2-1.2.0.42-universal.jar
+[01:15:40] [main/DEBUG] [FML]: Examining file: Mantle-1.12-1.3.3.55.jar
+[01:15:40] [main/DEBUG] [FML]: Examining file: MedievalCraft-1.12.2-1.16.2.jar
+[01:15:40] [main/DEBUG] [FML]: Examining file: mowziesmobs-1.5.8.jar
+[01:15:40] [main/DEBUG] [FML]: Examining file: OreLib-1.12.2-3.6.0.1.jar
+[01:15:40] [main/DEBUG] [FML]: Making maven link for org.orecruncher:OreLib:1.12.2-3.6.0.1 in memory to C:\Users\Richard\Desktop\kindoms\.\mods\OreLib-1.12.2-3.6.0.1.jar.
+[01:15:40] [main/DEBUG] [FML]: Examining file: Pam's+HarvestCraft+1.12.2zg.jar
+[01:15:40] [main/DEBUG] [FML]: Examining file: simpleplanes-1.12.2-3.0.1.7.jar
+[01:15:40] [main/DEBUG] [FML]: Examining file: SpartanShields-1.12.2-1.5.4.jar
+[01:15:40] [main/DEBUG] [FML]: Examining file: TConstruct-1.12.2-2.13.0.183.jar
+[01:15:40] [main/DEBUG] [FML]: Examining file: tombstone-4.5.2-1.12.2.jar
+[01:15:40] [main/DEBUG] [FML]: Examining file: Treasure2-mc1.12.2-f14.23.5.2859-v1.18.0.jar
+[01:15:40] [main/DEBUG] [FML]: Examining file: twilightforest-1.12.2-3.10.1013-universal.jar
+[01:15:40] [main/DEBUG] [FML]: Examining file: VoiceChatReloaded-1.2.5.jar
+[01:15:40] [main/DEBUG] [FML]: Examining file: weeping-angels-46.jar
+[01:15:40] [main/DEBUG] [FML]: Making maven link for me.swirtzly.weeping-angels:weeping-angels:46 in memory to C:\Users\Richard\Desktop\kindoms\.\mods\weeping-angels-46.jar.
+[01:15:40] [main/DEBUG] [FML]: Examining file: XL-Food-Mod-1.12.2-1.9.2.jar
+[01:15:40] [main/DEBUG] [FML]: Examining file: _MixinBootstrap-1.1.0.jar
+[01:15:40] [main/DEBUG] [FML]: File already proccessed C:\Users\Richard\Desktop\kindoms\.\mods\memory_repo\net\ilexiconn\llibrary-core\1.0.11-1.12.2\llibrary-core-1.0.11-1.12.2.jar, Skipping
+[01:15:40] [main/DEBUG] [FML]: File already proccessed C:\Users\Richard\Desktop\kindoms\.\mods\llibrary-1.7.19-1.12.2.jar, Skipping
+[01:15:40] [main/DEBUG] [FML]: File already proccessed C:\Users\Richard\Desktop\kindoms\.\mods\OreLib-1.12.2-3.6.0.1.jar, Skipping
+[01:15:40] [main/DEBUG] [FML]: File already proccessed C:\Users\Richard\Desktop\kindoms\.\mods\weeping-angels-46.jar, Skipping
+[01:15:40] [main/DEBUG] [FML]: Enabling runtime deobfuscation
+[01:15:40] [main/DEBUG] [FML]: Instantiating coremod class FMLCorePlugin
+[01:15:40] [main/DEBUG] [FML]: The coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin) is not signed!
+[01:15:40] [main/DEBUG] [FML]: Added access transformer class net.minecraftforge.fml.common.asm.transformers.AccessTransformer to enqueued access transformers
+[01:15:40] [main/DEBUG] [FML]: Enqueued coremod FMLCorePlugin
+[01:15:40] [main/DEBUG] [FML]: Instantiating coremod class FMLForgePlugin
+[01:15:40] [main/DEBUG] [FML]: The coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin) is not signed!
+[01:15:40] [main/DEBUG] [FML]: Enqueued coremod FMLForgePlugin
+[01:15:40] [main/DEBUG] [FML]: Instantiating coremod class MohistCorePlugin
+[01:15:40] [main/DEBUG] [FML]: The coremod MohistCorePlugin (com.mohistmc.forge.MohistCorePlugin) is not signed!
+[01:15:40] [main/DEBUG] [FML]: Enqueued coremod MohistCorePlugin
+[01:15:40] [main/DEBUG] [FML]: All fundamental core mods are successfully located
+[01:15:40] [main/DEBUG] [FML]: Discovering coremods
+[01:15:40] [main/INFO] [FML]: Searching C:\Users\Richard\Desktop\kindoms\.\mods for mods
+[01:15:40] [main/DEBUG] [FML]:   Adding astikorcarts-1.12.2-0.1.2.8.jar to the mod list
+[01:15:40] [main/DEBUG] [FML]:   Adding BiblioCraft[v2.4.3][MC1.12.0].jar to the mod list
+[01:15:40] [main/DEBUG] [FML]:   Adding BiomesYouGo1.7.1.jar to the mod list
+[01:15:40] [main/DEBUG] [FML]:   Adding ColossalChests-1.12.2-1.7.3.jar to the mod list
+[01:15:40] [main/DEBUG] [FML]:   Adding Comes-Alive-espanol.jar to the mod list
+[01:15:40] [main/DEBUG] [FML]:   Adding conarm-1.12.2-1.2.5.10.jar to the mod list
+[01:15:40] [main/DEBUG] [FML]:   Adding CreativeCore_v1.10.69_mc1.12.2.jar to the mod list
+[01:15:40] [main/DEBUG] [FML]:   Adding Currency-1.12.0-1.3.11.jar to the mod list
+[01:15:40] [main/DEBUG] [FML]:   Adding CustomNPCs_1.12.2-(01Oct19).jar to the mod list
+[01:15:40] [main/DEBUG] [FML]:   Adding CyclopsCore-1.12.2-1.6.4.jar to the mod list
+[01:15:40] [main/DEBUG] [FML]:   Adding Drugs_and_Psychedelics-1_12_2.jar to the mod list
+[01:15:40] [main/DEBUG] [FML]:   Adding ElectroblobsWizardry-4.3.4-MC1.12.2.jar to the mod list
+[01:15:40] [main/DEBUG] [FML]:   Adding EnhancedVisuals_v1.3.18_mc1.12.2.jar to the mod list
+[01:15:40] [main/DEBUG] [FML]:   Adding GottschCore-mc1.12.2-f14.23.5.2854-v1.14.0.jar to the mod list
+[01:15:40] [main/DEBUG] [FML]:   Adding growthcraft-1.12.2-4.2.2.1.jar to the mod list
+[01:15:40] [main/DEBUG] [FML]:   Adding Hwyla-1.8.26-B41_1.12.2.jar to the mod list
+[01:15:40] [main/DEBUG] [FML]:   Adding industrialcraft-2-2.8.170-ex112.jar to the mod list
+[01:15:40] [main/DEBUG] [FML]:   Adding InfernalMobs-1.12.1.jar to the mod list
+[01:15:40] [main/DEBUG] [FML]:   Adding jei_1.12.2-4.15.0.289.jar to the mod list
+[01:15:40] [main/DEBUG] [FML]:   Adding LeatherWorks-1.12-1.78.0.42.jar to the mod list
+[01:15:40] [main/DEBUG] [FML]:   Adding llibrary-1.7.19-1.12.2.jar to the mod list
+[01:15:40] [main/DEBUG] [FML]:   Adding LunatriusCore-1.12.2-1.2.0.42-universal.jar to the mod list
+[01:15:40] [main/DEBUG] [FML]:   Adding Mantle-1.12-1.3.3.55.jar to the mod list
+[01:15:40] [main/DEBUG] [FML]:   Adding MedievalCraft-1.12.2-1.16.2.jar to the mod list
+[01:15:40] [main/DEBUG] [FML]:   Adding mowziesmobs-1.5.8.jar to the mod list
+[01:15:40] [main/DEBUG] [FML]:   Adding OreLib-1.12.2-3.6.0.1.jar to the mod list
+[01:15:40] [main/DEBUG] [FML]:   Adding Pam's+HarvestCraft+1.12.2zg.jar to the mod list
+[01:15:40] [main/DEBUG] [FML]:   Adding simpleplanes-1.12.2-3.0.1.7.jar to the mod list
+[01:15:40] [main/DEBUG] [FML]:   Adding SpartanShields-1.12.2-1.5.4.jar to the mod list
+[01:15:40] [main/DEBUG] [FML]:   Adding TConstruct-1.12.2-2.13.0.183.jar to the mod list
+[01:15:40] [main/DEBUG] [FML]:   Adding tombstone-4.5.2-1.12.2.jar to the mod list
+[01:15:40] [main/DEBUG] [FML]:   Adding Treasure2-mc1.12.2-f14.23.5.2859-v1.18.0.jar to the mod list
+[01:15:40] [main/DEBUG] [FML]:   Adding twilightforest-1.12.2-3.10.1013-universal.jar to the mod list
+[01:15:40] [main/DEBUG] [FML]:   Adding VoiceChatReloaded-1.2.5.jar to the mod list
+[01:15:40] [main/DEBUG] [FML]:   Adding weeping-angels-46.jar to the mod list
+[01:15:40] [main/DEBUG] [FML]:   Adding XL-Food-Mod-1.12.2-1.9.2.jar to the mod list
+[01:15:40] [main/DEBUG] [FML]:   Adding _MixinBootstrap-1.1.0.jar to the mod list
+[01:15:40] [main/DEBUG] [FML]: Examining for coremod candidacy _MixinBootstrap-1.1.0.jar
+[01:15:40] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from _MixinBootstrap-1.1.0.jar
+[01:15:40] [main/DEBUG] [FML]: Examining for coremod candidacy astikorcarts-1.12.2-0.1.2.8.jar
+[01:15:40] [main/DEBUG] [FML]: Not found coremod data in astikorcarts-1.12.2-0.1.2.8.jar
+[01:15:40] [main/DEBUG] [FML]: Examining for coremod candidacy BiblioCraft[v2.4.3][MC1.12.0].jar
+[01:15:40] [main/DEBUG] [FML]: Not found coremod data in BiblioCraft[v2.4.3][MC1.12.0].jar
+[01:15:40] [main/DEBUG] [FML]: Examining for coremod candidacy BiomesYouGo1.7.1.jar
+[01:15:40] [main/DEBUG] [FML]: Not found coremod data in BiomesYouGo1.7.1.jar
+[01:15:40] [main/DEBUG] [FML]: Examining for coremod candidacy ColossalChests-1.12.2-1.7.3.jar
+[01:15:40] [main/DEBUG] [FML]: Not found coremod data in ColossalChests-1.12.2-1.7.3.jar
+[01:15:40] [main/DEBUG] [FML]: Examining for coremod candidacy Comes-Alive-espanol.jar
+[01:15:40] [main/DEBUG] [FML]: Not found coremod data in Comes-Alive-espanol.jar
+[01:15:40] [main/DEBUG] [FML]: Examining for coremod candidacy conarm-1.12.2-1.2.5.10.jar
+[01:15:40] [main/DEBUG] [FML]: Not found coremod data in conarm-1.12.2-1.2.5.10.jar
+[01:15:40] [main/DEBUG] [FML]: Examining for coremod candidacy CreativeCore_v1.10.69_mc1.12.2.jar
+[01:15:40] [main/DEBUG] [FML]: Instantiating coremod class CreativePatchingLoader
+[01:15:40] [main/DEBUG] [FML]: The coremod CreativePatchingLoader (com.creativemd.creativecore.core.CreativePatchingLoader) is not signed!
+[01:15:40] [main/DEBUG] [FML]: Enqueued coremod CreativePatchingLoader
+[01:15:40] [main/DEBUG] [FML]: Examining for coremod candidacy Currency-1.12.0-1.3.11.jar
+[01:15:40] [main/DEBUG] [FML]: Not found coremod data in Currency-1.12.0-1.3.11.jar
+[01:15:40] [main/DEBUG] [FML]: Examining for coremod candidacy CustomNPCs_1.12.2-(01Oct19).jar
+[01:15:40] [main/DEBUG] [FML]: Not found coremod data in CustomNPCs_1.12.2-(01Oct19).jar
+[01:15:40] [main/DEBUG] [FML]: Examining for coremod candidacy CyclopsCore-1.12.2-1.6.4.jar
+[01:15:40] [main/DEBUG] [FML]: Not found coremod data in CyclopsCore-1.12.2-1.6.4.jar
+[01:15:40] [main/DEBUG] [FML]: Examining for coremod candidacy Drugs_and_Psychedelics-1_12_2.jar
+[01:15:40] [main/DEBUG] [FML]: Not found coremod data in Drugs_and_Psychedelics-1_12_2.jar
+[01:15:40] [main/DEBUG] [FML]: Examining for coremod candidacy ElectroblobsWizardry-4.3.4-MC1.12.2.jar
+[01:15:40] [main/DEBUG] [FML]: Not found coremod data in ElectroblobsWizardry-4.3.4-MC1.12.2.jar
+[01:15:40] [main/DEBUG] [FML]: Examining for coremod candidacy EnhancedVisuals_v1.3.18_mc1.12.2.jar
+[01:15:40] [main/DEBUG] [FML]: Examining for coremod candidacy GottschCore-mc1.12.2-f14.23.5.2854-v1.14.0.jar
+[01:15:40] [main/DEBUG] [FML]: Not found coremod data in GottschCore-mc1.12.2-f14.23.5.2854-v1.14.0.jar
+[01:15:40] [main/DEBUG] [FML]: Examining for coremod candidacy growthcraft-1.12.2-4.2.2.1.jar
+[01:15:40] [main/DEBUG] [FML]: Not found coremod data in growthcraft-1.12.2-4.2.2.1.jar
+[01:15:40] [main/DEBUG] [FML]: Examining for coremod candidacy Hwyla-1.8.26-B41_1.12.2.jar
+[01:15:40] [main/DEBUG] [FML]: Not found coremod data in Hwyla-1.8.26-B41_1.12.2.jar
+[01:15:40] [main/DEBUG] [FML]: Examining for coremod candidacy industrialcraft-2-2.8.170-ex112.jar
+[01:15:40] [main/DEBUG] [FML]: Not found coremod data in industrialcraft-2-2.8.170-ex112.jar
+[01:15:40] [main/DEBUG] [FML]: Examining for coremod candidacy InfernalMobs-1.12.1.jar
+[01:15:40] [main/DEBUG] [FML]: Not found coremod data in InfernalMobs-1.12.1.jar
+[01:15:40] [main/DEBUG] [FML]: Examining for coremod candidacy jei_1.12.2-4.15.0.289.jar
+[01:15:40] [main/DEBUG] [FML]: Not found coremod data in jei_1.12.2-4.15.0.289.jar
+[01:15:40] [main/DEBUG] [FML]: Examining for coremod candidacy LeatherWorks-1.12-1.78.0.42.jar
+[01:15:40] [main/DEBUG] [FML]: Not found coremod data in LeatherWorks-1.12-1.78.0.42.jar
+[01:15:40] [main/DEBUG] [FML]: Examining for coremod candidacy LunatriusCore-1.12.2-1.2.0.42-universal.jar
+[01:15:40] [main/DEBUG] [FML]: Not found coremod data in LunatriusCore-1.12.2-1.2.0.42-universal.jar
+[01:15:40] [main/DEBUG] [FML]: Examining for coremod candidacy Mantle-1.12-1.3.3.55.jar
+[01:15:40] [main/DEBUG] [FML]: Not found coremod data in Mantle-1.12-1.3.3.55.jar
+[01:15:40] [main/DEBUG] [FML]: Examining for coremod candidacy MedievalCraft-1.12.2-1.16.2.jar
+[01:15:40] [main/DEBUG] [FML]: Not found coremod data in MedievalCraft-1.12.2-1.16.2.jar
+[01:15:40] [main/DEBUG] [FML]: Examining for coremod candidacy mowziesmobs-1.5.8.jar
+[01:15:40] [main/DEBUG] [FML]: Not found coremod data in mowziesmobs-1.5.8.jar
+[01:15:40] [main/DEBUG] [FML]: Examining for coremod candidacy Pam's+HarvestCraft+1.12.2zg.jar
+[01:15:40] [main/DEBUG] [FML]: Not found coremod data in Pam's+HarvestCraft+1.12.2zg.jar
+[01:15:40] [main/DEBUG] [FML]: Examining for coremod candidacy simpleplanes-1.12.2-3.0.1.7.jar
+[01:15:40] [main/DEBUG] [FML]: Not found coremod data in simpleplanes-1.12.2-3.0.1.7.jar
+[01:15:40] [main/DEBUG] [FML]: Examining for coremod candidacy SpartanShields-1.12.2-1.5.4.jar
+[01:15:40] [main/DEBUG] [FML]: Not found coremod data in SpartanShields-1.12.2-1.5.4.jar
+[01:15:40] [main/DEBUG] [FML]: Examining for coremod candidacy TConstruct-1.12.2-2.13.0.183.jar
+[01:15:40] [main/DEBUG] [FML]: Not found coremod data in TConstruct-1.12.2-2.13.0.183.jar
+[01:15:40] [main/DEBUG] [FML]: Examining for coremod candidacy tombstone-4.5.2-1.12.2.jar
+[01:15:40] [main/DEBUG] [FML]: Not found coremod data in tombstone-4.5.2-1.12.2.jar
+[01:15:40] [main/DEBUG] [FML]: Examining for coremod candidacy Treasure2-mc1.12.2-f14.23.5.2859-v1.18.0.jar
+[01:15:40] [main/DEBUG] [FML]: Not found coremod data in Treasure2-mc1.12.2-f14.23.5.2859-v1.18.0.jar
+[01:15:40] [main/DEBUG] [FML]: Examining for coremod candidacy twilightforest-1.12.2-3.10.1013-universal.jar
+[01:15:40] [main/DEBUG] [FML]: Not found coremod data in twilightforest-1.12.2-3.10.1013-universal.jar
+[01:15:40] [main/DEBUG] [FML]: Examining for coremod candidacy VoiceChatReloaded-1.2.5.jar
+[01:15:40] [main/DEBUG] [FML]: Not found coremod data in VoiceChatReloaded-1.2.5.jar
+[01:15:40] [main/DEBUG] [FML]: Examining for coremod candidacy XL-Food-Mod-1.12.2-1.9.2.jar
+[01:15:40] [main/DEBUG] [FML]: Not found coremod data in XL-Food-Mod-1.12.2-1.9.2.jar
+[01:15:40] [main/DEBUG] [FML]: Examining for coremod candidacy llibrary-core-1.0.11-1.12.2.jar
+[01:15:40] [main/TRACE] [FML]: Adding llibrary-core-1.0.11-1.12.2.jar to the list of known coremods, it will not be examined again
+[01:15:40] [main/DEBUG] [FML]: Instantiating coremod class LLibraryPlugin
+[01:15:40] [main/TRACE] [FML]: coremod named llibrary is loading
+[01:15:40] [main/DEBUG] [FML]: Found signing certificates for coremod llibrary (net.ilexiconn.llibrary.server.core.plugin.LLibraryPlugin)
+[01:15:40] [main/DEBUG] [FML]: Found certificate b9f30a813bee3b9dd5652c460310cfcd54f6b7ec
+[01:15:40] [main/DEBUG] [FML]: Enqueued coremod llibrary
+[01:15:40] [main/DEBUG] [FML]: Examining for coremod candidacy llibrary-1.7.19-1.12.2.jar
+[01:15:40] [main/DEBUG] [FML]: Not found coremod data in llibrary-1.7.19-1.12.2.jar
+[01:15:40] [main/DEBUG] [FML]: Examining for coremod candidacy OreLib-1.12.2-3.6.0.1.jar
+[01:15:40] [main/DEBUG] [FML]: Not found coremod data in OreLib-1.12.2-3.6.0.1.jar
+[01:15:40] [main/DEBUG] [FML]: Examining for coremod candidacy weeping-angels-46.jar
+[01:15:40] [main/DEBUG] [FML]: Not found coremod data in weeping-angels-46.jar
+[01:15:40] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[01:15:40] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[01:15:40] [main/DEBUG] [mixin]: Mixin bootstrap service org.spongepowered.asm.service.modlauncher.MixinServiceModLauncherBootstrap is not available: ModLauncher is not available
+[01:15:40] [main/DEBUG] [mixin]: MixinService [LaunchWrapper] was successfully booted in sun.misc.Launcher$AppClassLoader@55f96302
+[01:15:40] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/C:/Users/Richard/Desktop/kindoms/./mods/_MixinBootstrap-1.1.0.jar Service=LaunchWrapper Env=SERVER
+[01:15:40] [main/DEBUG] [mixin]: Error cleaning class output directory: .mixin.out
+[01:15:40] [main/DEBUG] [mixin]: Adding new mixin transformer proxy #1
+[01:15:40] [main/DEBUG] [mixin]: Initialising Mixin Platform Manager
+[01:15:40] [main/DEBUG] [mixin]: Adding mixin platform agents for container ContainerHandleURI(file:/C:/Users/Richard/Desktop/kindoms/./mods/_MixinBootstrap-1.1.0.jar)
+[01:15:40] [main/DEBUG] [mixin]: Instancing new MixinPlatformAgentFMLLegacy for ContainerHandleURI(file:/C:/Users/Richard/Desktop/kindoms/./mods/_MixinBootstrap-1.1.0.jar)
+[01:15:40] [main/DEBUG] [mixin]: MixinPlatformAgentFMLLegacy rejected container ContainerHandleURI(file:/C:/Users/Richard/Desktop/kindoms/./mods/_MixinBootstrap-1.1.0.jar)
+[01:15:40] [main/DEBUG] [mixin]: Instancing new MixinPlatformAgentLiteLoaderLegacy for ContainerHandleURI(file:/C:/Users/Richard/Desktop/kindoms/./mods/_MixinBootstrap-1.1.0.jar)
+[01:15:40] [main/DEBUG] [mixin]: MixinPlatformAgentLiteLoaderLegacy rejected container ContainerHandleURI(file:/C:/Users/Richard/Desktop/kindoms/./mods/_MixinBootstrap-1.1.0.jar)
+[01:15:40] [main/DEBUG] [mixin]: Instancing new MixinPlatformAgentDefault for ContainerHandleURI(file:/C:/Users/Richard/Desktop/kindoms/./mods/_MixinBootstrap-1.1.0.jar)
+[01:15:40] [main/DEBUG] [mixin]: MixinPlatformAgentDefault accepted container ContainerHandleURI(file:/C:/Users/Richard/Desktop/kindoms/./mods/_MixinBootstrap-1.1.0.jar)
+[01:15:40] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/server.jar for mixin tweaker
+[01:15:40] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.jar for mixin tweaker
+[01:15:40] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar for mixin tweaker
+[01:15:40] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/com/typesafe/config/1.3.1/config-1.3.1.jar for mixin tweaker
+[01:15:40] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/commons-lang/commons-lang/2.6/commons-lang-2.6.jar for mixin tweaker
+[01:15:40] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/java3d/vecmath/1.5.2/vecmath-1.5.2.jar for mixin tweaker
+[01:15:40] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/jline/jline/2.13/jline-2.13.jar for mixin tweaker
+[01:15:40] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/lzma/lzma/0.0.1/lzma-0.0.1.jar for mixin tweaker
+[01:15:40] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/mysql/mysql-connector-java/5.1.46/mysql-connector-java-5.1.46.jar for mixin tweaker
+[01:15:40] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/net/java/dev/jna/jna/4.4.0/jna-4.4.0.jar for mixin tweaker
+[01:15:40] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/net/md-5/bungeecord-chat/1.12-SNAPSHOT/bungeecord-chat-1.12-SNAPSHOT.jar for mixin tweaker
+[01:15:40] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/net/md-5/SpecialSource/1.8.5/SpecialSource-1.8.5.jar for mixin tweaker
+[01:15:40] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar for mixin tweaker
+[01:15:40] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar for mixin tweaker
+[01:15:40] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar for mixin tweaker
+[01:15:40] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar for mixin tweaker
+[01:15:40] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar for mixin tweaker
+[01:15:40] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/org/jline/jline/3.5.1/jline-3.5.1.jar for mixin tweaker
+[01:15:40] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/org/ow2/asm/asm-debug-all/5.2/asm-debug-all-5.2.jar for mixin tweaker
+[01:15:40] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0.2.jar for mixin tweaker
+[01:15:40] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2.jar for mixin tweaker
+[01:15:40] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar for mixin tweaker
+[01:15:40] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar for mixin tweaker
+[01:15:40] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar for mixin tweaker
+[01:15:40] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar for mixin tweaker
+[01:15:40] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar for mixin tweaker
+[01:15:40] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar for mixin tweaker
+[01:15:40] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar for mixin tweaker
+[01:15:40] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/org/xerial/sqlite-jdbc/3.21.0.1/sqlite-jdbc-3.21.0.1.jar for mixin tweaker
+[01:15:40] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/org/yaml/snakeyaml/1.19/snakeyaml-1.19.jar for mixin tweaker
+[01:15:40] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/org/slf4j/slf4j-api/1.7.30/slf4j-api-1.7.30.jar for mixin tweaker
+[01:15:40] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/org/slf4j/slf4j-nop/1.7.30/slf4j-nop-1.7.30.jar for mixin tweaker
+[01:15:40] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2_mc/scala-continuations-library_2.11-1.0.2_mc.jar for mixin tweaker
+[01:15:40] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2_mc/scala-continuations-plugin_2.11.1-1.0.2_mc.jar for mixin tweaker
+[01:15:40] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/io/netty/netty-all/4.1.24.Final/netty-all-4.1.24.Final.jar for mixin tweaker
+[01:15:40] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/org/apache/logging/log4j/log4j-api/2.17.1/log4j-api-2.17.1.jar for mixin tweaker
+[01:15:40] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/org/apache/logging/log4j/log4j-core/2.17.1/log4j-core-2.17.1.jar for mixin tweaker
+[01:15:40] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/net/minecraft/1.12.2/minecraft_server.1.12.2.jar for mixin tweaker
+[01:15:40] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/./mods/_MixinBootstrap-1.1.0.jar for mixin tweaker
+[01:15:40] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/./mods/CreativeCore_v1.10.69_mc1.12.2.jar for mixin tweaker
+[01:15:40] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/./mods/memory_repo/net/ilexiconn/llibrary-core/1.0.11-1.12.2/llibrary-core-1.0.11-1.12.2.jar for mixin tweaker
+[01:15:40] [main/DEBUG] [mixin]: Adding agents for Mixin Container ContainerHandleURI(file:/C:/Users/Richard/Desktop/kindoms/./mods/_MixinBootstrap-1.1.0.jar)
+[01:15:40] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[01:15:40] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[01:15:40] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[01:15:40] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:15:40] [main/DEBUG] [FML]: Injecting coremod FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\} class transformers
+[01:15:40] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer
+[01:15:40] [main/DEBUG] [mixin]: Preparing mixins for MixinEnvironment[PREINIT]
+[01:15:40] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+[01:15:40] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+[01:15:40] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SoundEngineFixTransformer
+[01:15:40] [main/DEBUG] [FML]: Injection complete
+[01:15:40] [main/DEBUG] [FML]: Running coremod plugin for FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\}
+[01:15:40] [main/DEBUG] [FML]: Running coremod plugin FMLCorePlugin
+[01:15:41] [main/DEBUG] [FML]: Read 1450 binary patches
+[01:15:41] [main/DEBUG] [FML]: Loading deobfuscation resource /deobfuscation_data-1.12.2.lzma with 36076 records
+[01:15:42] [main/DEBUG] [FML]: Coremod plugin class FMLCorePlugin run successfully
+[01:15:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:15:42] [main/DEBUG] [FML]: Injecting coremod FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\} class transformers
+[01:15:42] [main/DEBUG] [FML]: Injection complete
+[01:15:42] [main/DEBUG] [FML]: Running coremod plugin for FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\}
+[01:15:42] [main/DEBUG] [FML]: Running coremod plugin FMLForgePlugin
+[01:15:42] [main/DEBUG] [FML]: Coremod plugin class FMLForgePlugin run successfully
+[01:15:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:15:42] [main/DEBUG] [FML]: Injecting coremod MohistCorePlugin \{com.mohistmc.forge.MohistCorePlugin\} class transformers
+[01:15:42] [main/TRACE] [FML]: Registering transformer com.mohistmc.forge.SendPacketTransformer
+[01:15:42] [main/TRACE] [FML]: Registering transformer com.mohistmc.bukkit.pluginfix.MyPetTransformer
+[01:15:42] [main/DEBUG] [FML]: Injection complete
+[01:15:42] [main/DEBUG] [FML]: Running coremod plugin for MohistCorePlugin \{com.mohistmc.forge.MohistCorePlugin\}
+[01:15:42] [main/DEBUG] [FML]: Running coremod plugin MohistCorePlugin
+[01:15:42] [main/DEBUG] [FML]: Coremod plugin class MohistCorePlugin run successfully
+[01:15:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:15:42] [main/DEBUG] [FML]: Injecting coremod CreativePatchingLoader \{com.creativemd.creativecore.core.CreativePatchingLoader\} class transformers
+[01:15:42] [main/DEBUG] [FML]: Injection complete
+[01:15:42] [main/DEBUG] [FML]: Running coremod plugin for CreativePatchingLoader \{com.creativemd.creativecore.core.CreativePatchingLoader\}
+[01:15:42] [main/DEBUG] [FML]: Running coremod plugin CreativePatchingLoader
+[01:15:42] [main/DEBUG] [FML]: Coremod plugin class CreativePatchingLoader run successfully
+[01:15:42] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[01:15:42] [main/DEBUG] [mixin]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:ContainerHandleURI(file:/C:/Users/Richard/Desktop/kindoms/./mods/_MixinBootstrap-1.1.0.jar)]
+[01:15:42] [main/DEBUG] [mixin]: Creating FML remapper adapter: org.spongepowered.asm.bridge.RemapperAdapterFML
+[01:15:42] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@5a034157
+[01:15:42] [main/DEBUG] [mixin]: Processing launch tasks for PlatformAgent[MixinPlatformAgentDefault:ContainerHandleURI(file:/C:/Users/Richard/Desktop/kindoms/./mods/_MixinBootstrap-1.1.0.jar)]
+[01:15:42] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/server.jar for mixin tweaker
+[01:15:42] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.jar for mixin tweaker
+[01:15:42] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar for mixin tweaker
+[01:15:42] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/com/typesafe/config/1.3.1/config-1.3.1.jar for mixin tweaker
+[01:15:42] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/commons-lang/commons-lang/2.6/commons-lang-2.6.jar for mixin tweaker
+[01:15:42] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/java3d/vecmath/1.5.2/vecmath-1.5.2.jar for mixin tweaker
+[01:15:42] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/jline/jline/2.13/jline-2.13.jar for mixin tweaker
+[01:15:42] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/lzma/lzma/0.0.1/lzma-0.0.1.jar for mixin tweaker
+[01:15:42] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/mysql/mysql-connector-java/5.1.46/mysql-connector-java-5.1.46.jar for mixin tweaker
+[01:15:42] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/net/java/dev/jna/jna/4.4.0/jna-4.4.0.jar for mixin tweaker
+[01:15:42] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/net/md-5/bungeecord-chat/1.12-SNAPSHOT/bungeecord-chat-1.12-SNAPSHOT.jar for mixin tweaker
+[01:15:42] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/net/md-5/SpecialSource/1.8.5/SpecialSource-1.8.5.jar for mixin tweaker
+[01:15:42] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar for mixin tweaker
+[01:15:42] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar for mixin tweaker
+[01:15:42] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar for mixin tweaker
+[01:15:42] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar for mixin tweaker
+[01:15:42] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar for mixin tweaker
+[01:15:42] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/org/jline/jline/3.5.1/jline-3.5.1.jar for mixin tweaker
+[01:15:42] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/org/ow2/asm/asm-debug-all/5.2/asm-debug-all-5.2.jar for mixin tweaker
+[01:15:42] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0.2.jar for mixin tweaker
+[01:15:42] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2.jar for mixin tweaker
+[01:15:42] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar for mixin tweaker
+[01:15:42] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar for mixin tweaker
+[01:15:42] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar for mixin tweaker
+[01:15:42] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar for mixin tweaker
+[01:15:42] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar for mixin tweaker
+[01:15:42] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar for mixin tweaker
+[01:15:42] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar for mixin tweaker
+[01:15:42] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/org/xerial/sqlite-jdbc/3.21.0.1/sqlite-jdbc-3.21.0.1.jar for mixin tweaker
+[01:15:42] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/org/yaml/snakeyaml/1.19/snakeyaml-1.19.jar for mixin tweaker
+[01:15:42] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/org/slf4j/slf4j-api/1.7.30/slf4j-api-1.7.30.jar for mixin tweaker
+[01:15:42] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/org/slf4j/slf4j-nop/1.7.30/slf4j-nop-1.7.30.jar for mixin tweaker
+[01:15:42] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2_mc/scala-continuations-library_2.11-1.0.2_mc.jar for mixin tweaker
+[01:15:42] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2_mc/scala-continuations-plugin_2.11.1-1.0.2_mc.jar for mixin tweaker
+[01:15:42] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/io/netty/netty-all/4.1.24.Final/netty-all-4.1.24.Final.jar for mixin tweaker
+[01:15:42] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/org/apache/logging/log4j/log4j-api/2.17.1/log4j-api-2.17.1.jar for mixin tweaker
+[01:15:42] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/org/apache/logging/log4j/log4j-core/2.17.1/log4j-core-2.17.1.jar for mixin tweaker
+[01:15:42] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/libraries/net/minecraft/1.12.2/minecraft_server.1.12.2.jar for mixin tweaker
+[01:15:42] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/./mods/_MixinBootstrap-1.1.0.jar for mixin tweaker
+[01:15:42] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/./mods/CreativeCore_v1.10.69_mc1.12.2.jar for mixin tweaker
+[01:15:42] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/Richard/Desktop/kindoms/./mods/memory_repo/net/ilexiconn/llibrary-core/1.0.11-1.12.2/llibrary-core-1.0.11-1.12.2.jar for mixin tweaker
+[01:15:42] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning asmgen:/ for mixin tweaker
+[01:15:42] [main/DEBUG] [mixin]: Adding agents for Mixin Container ContainerHandleURI(file:/C:/Users/Richard/Desktop/kindoms/./mods/_MixinBootstrap-1.1.0.jar)
+[01:15:42] [main/DEBUG] [mixin]: inject() running with 1 agents
+[01:15:42] [main/DEBUG] [mixin]: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:ContainerHandleURI(file:/C:/Users/Richard/Desktop/kindoms/./mods/_MixinBootstrap-1.1.0.jar)]
+[01:15:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[01:15:42] [main/DEBUG] [FML]: Loaded 233 rules from AccessTransformer config file forge_at.cfg
+[01:15:42] [main/DEBUG] [FML]: Loaded 2 rules from AccessTransformer mod jar file .\mods\CyclopsCore-1.12.2-1.6.4.jar!META-INF/cyclopscore_at.cfg
+
+[01:15:42] [main/DEBUG] [FML]: Loaded 8 rules from AccessTransformer mod jar file .\mods\Mantle-1.12-1.3.3.55.jar!META-INF/mantle_at.cfg
+
+[01:15:42] [main/DEBUG] [FML]: Loaded 21 rules from AccessTransformer mod jar file .\mods\twilightforest-1.12.2-3.10.1013-universal.jar!META-INF/tf_at.cfg
+
+[01:15:42] [main/DEBUG] [FML]: Loaded 20 rules from AccessTransformer mod jar file .\mods\tombstone-4.5.2-1.12.2.jar!META-INF/tombstone_at.cfg
+
+[01:15:42] [main/DEBUG] [FML]: Loaded 9 rules from AccessTransformer mod jar file .\mods\CustomNPCs_1.12.2-(01Oct19).jar!META-INF/cnpcs_at.cfg
+
+[01:15:42] [main/DEBUG] [FML]: Loaded 39 rules from AccessTransformer mod jar file .\mods\TConstruct-1.12.2-2.13.0.183.jar!META-INF/tconstruct_at.cfg
+
+[01:15:42] [main/DEBUG] [FML]: Loaded 2 rules from AccessTransformer mod jar file .\mods\growthcraft-1.12.2-4.2.2.1.jar!META-INF/growthcraft_at.cfg
+
+[01:15:42] [main/DEBUG] [FML]: Loaded 13 rules from AccessTransformer mod jar file .\mods\jei_1.12.2-4.15.0.289.jar!META-INF/jei_at.cfg
+
+[01:15:42] [main/DEBUG] [FML]: Loaded 11 rules from AccessTransformer mod jar file .\mods\llibrary-1.7.19-1.12.2.jar!META-INF/llibrary_at.cfg
+
+[01:15:42] [main/DEBUG] [FML]: Loaded 3 rules from AccessTransformer mod jar file .\mods\VoiceChatReloaded-1.2.5.jar!META-INF/gvc_at.cfg
+
+[01:15:42] [main/DEBUG] [mixin]: Adding new mixin transformer proxy #2
+[01:15:42] [main/DEBUG] [FML]: Validating minecraft
+[01:15:42] [main/DEBUG] [mixin]: Preparing mixins for MixinEnvironment[INIT]
+[01:15:42] [main/DEBUG] [FML]: Minecraft validated, launching...
+[01:15:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:15:42] [main/DEBUG] [FML]: Injecting coremod llibrary \{net.ilexiconn.llibrary.server.core.plugin.LLibraryPlugin\} class transformers
+[01:15:42] [main/TRACE] [FML]: Registering transformer net.ilexiconn.llibrary.server.core.plugin.LLibraryTransformer
+[01:15:42] [main/TRACE] [FML]: Registering transformer net.ilexiconn.llibrary.server.core.patcher.LLibraryRuntimePatcher
+[01:15:42] [main/DEBUG] [LLibrary Core]: Found runtime patcher net.ilexiconn.llibrary.server.core.patcher.LLibraryRuntimePatcher
+[01:15:42] [main/DEBUG] [FML]: Injection complete
+[01:15:42] [main/DEBUG] [FML]: Running coremod plugin for llibrary \{net.ilexiconn.llibrary.server.core.plugin.LLibraryPlugin\}
+[01:15:42] [main/DEBUG] [FML]: Running coremod plugin llibrary
+[01:15:42] [main/DEBUG] [FML]: Coremod plugin class LLibraryPlugin run successfully
+[01:15:42] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[01:15:42] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[01:15:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[01:15:42] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[01:15:42] [main/DEBUG] [mixin]: Adding new mixin transformer proxy #3
+[01:15:42] [main/DEBUG] [LLibrary Core]: Found no method mapping for java/lang/String/format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;
+[01:15:42] [main/DEBUG] [LLibrary Core]: Found no method mapping for net/minecraft/client/model/ModelBiped/<init>(FZ)V
+[01:15:42] [main/DEBUG] [LLibrary Core]: Found no method mapping for net/minecraft/client/renderer/entity/RenderPlayer/<init>(Lnet/minecraft/client/renderer/entity/RenderManager;Z)V
+[01:15:42] [main/DEBUG] [LLibrary Core]: Found no method mapping for net/minecraftforge/client/ForgeHooksClient/handleCameraTransforms(Lnet/minecraft/client/renderer/block/model/IBakedModel;Lnet/minecraft/client/renderer/block/model/ItemCameraTransforms$TransformType;Z)Lnet/minecraft/client/renderer/block/model/IBakedModel;
+[01:15:42] [main/DEBUG] [LLibrary Core]: Patching class net/minecraft/server/MinecraftServer
+[01:15:42] [main/DEBUG] [LLibrary Core]:    Patching method run()V
+[01:15:42] [main/DEBUG] [mixin]: Preparing mixins for MixinEnvironment[DEFAULT]
+[01:15:42] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}

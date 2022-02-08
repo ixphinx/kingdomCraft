@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1642902772298
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1642902931649
+  login: 1642902761358
+money: '0'
+last-account-name: conchaz
+lastlocation:
+  world: 67a73dcc-1328-485e-a36a-f3bc9a81811a
+  world-name: '2'
+  x: -14.5
+  y: 69.0
+  z: -139.5
+  yaw: -0.14755485951900482
+  pitch: -4.349979877471924
+logoutlocation:
+  world: d0104e9f-2b3b-4c57-a5af-9761fe0033d8
+  world-name: '3'
+  x: 86.23209318806171
+  y: 70.0
+  z: -1136.2938078943916
+  yaw: -328.678955078125
+  pitch: 34.00486755371094

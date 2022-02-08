@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 177.228.75.144
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1644017018082
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1644018555582
+  login: 1644017550618
+money: '0'
+last-account-name: adankirel
+lastlocation:
+  world: 0c1910d0-c773-4a11-be8c-1e38ce683f32
+  world-name: world
+  x: 1651.939869212992
+  y: 72.0
+  z: -131.69999998807907
+  yaw: 66.69425201416016
+  pitch: -33.48562240600586
+logoutlocation:
+  world: 0c1910d0-c773-4a11-be8c-1e38ce683f32
+  world-name: world
+  x: 1322.1644332239139
+  y: 65.0
+  z: -1409.8452720888884
+  yaw: 88.9694595336914
+  pitch: 18.119701385498047

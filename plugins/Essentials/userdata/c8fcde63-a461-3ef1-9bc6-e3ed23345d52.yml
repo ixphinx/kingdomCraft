@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1642537593557
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1642538463341
+  login: 1642534629436
+money: '0'
+last-account-name: Fernand058T
+lastlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: 561.4689847292389
+  y: 69.0
+  z: -2566.7619893941333
+  yaw: -334.13385009765625
+  pitch: 66.60002899169922
+logoutlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: 349.1927564304529
+  y: 68.0
+  z: -2518.529820238823
+  yaw: 97.41556549072266
+  pitch: 28.799976348876953
+homes:
+  home:
+    world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+    world-name: '1'
+    x: 348.2557706551884
+    y: 68.0
+    z: -2517.9794066329564
+    yaw: -200.0345458984375
+    pitch: 24.899953842163086

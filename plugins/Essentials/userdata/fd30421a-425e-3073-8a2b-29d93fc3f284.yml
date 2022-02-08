@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 201.240.146.119
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1643180706714
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1643695529671
+  login: 1643695515882
+money: '0'
+last-account-name: BlankShadow
+lastlocation:
+  world: 0c1910d0-c773-4a11-be8c-1e38ce683f32
+  world-name: world
+  x: 1163.5394563097109
+  y: 85.0
+  z: -802.6098645970146
+  yaw: 239.66390991210938
+  pitch: -4.258571624755859
+homes:
+  home:
+    world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+    world-name: '1'
+    x: -743.2573108569436
+    y: 192.0
+    z: -544.9232858965142
+    yaw: 8.05126953125
+    pitch: 44.75740051269531
+logoutlocation:
+  world: 0c1910d0-c773-4a11-be8c-1e38ce683f32
+  world-name: world
+  x: 1760.680984373913
+  y: 151.0
+  z: -166.27108554210835
+  yaw: -146.50038146972656
+  pitch: -4.950011730194092

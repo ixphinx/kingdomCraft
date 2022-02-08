@@ -1,0 +1,718 @@
+data:
+  a6ab95ee-7065-4a92-a3de-870b490610eb:
+    tag: Soul
+    tag_raw: Soul
+    desc: ''
+    leader: 035ace88-cdfb-39a0-bc20-339c9db17cac
+    verified: true
+    home: []
+    creation_date: 1642303674
+    members:
+    - 035ace88-cdfb-39a0-bc20-339c9db17cac
+    - 7a849a5c-8bb9-38fc-a00b-bb3a31b80e07
+    - b734ae20-f358-371c-92fb-ce1a20bc0108
+    - ed0b4374-6bb3-3d86-835d-ddff8e2516d8
+    online_members: ''
+    mods: []
+    rival: []
+    ally: []
+    kills: 2
+    deaths: 2
+    souls: 0
+    kdr: 1.0
+    ff: false
+    bank: '0'
+    level: '2'
+    maxlevel: '2'
+    extra_slots: '0'
+    quest:
+      points: 160
+      finished: 0
+    member_joined: 3
+    member_left: 0
+    war_win: 0
+    war_lose: 0
+    tag_changed: 0
+    member_kicked: 0
+    extra_chest: 0
+    locked_pages_chest: []
+    settings:
+      war_invite: 1
+      ally_shared_chat: 0
+      ally_shared_home: 0
+      join_leave: 1
+  3f2fa1fd-a870-4977-9b8b-0f7879f0165c:
+    tag: ReMa
+    tag_raw: ReMa
+    desc: ''
+    leader: ba555d89-8826-36a9-a682-628c3e141048
+    verified: true
+    home: []
+    creation_date: 1642303776
+    members:
+    - ba555d89-8826-36a9-a682-628c3e141048
+    - df129393-690b-38ec-a84c-34f430266ba7
+    online_members: ''
+    mods: []
+    rival: []
+    ally: []
+    kills: 1
+    deaths: 1
+    souls: 0
+    kdr: 1.0
+    ff: false
+    bank: '0'
+    level: '1'
+    maxlevel: '1'
+    extra_slots: '0'
+    quest:
+      points: 120
+      finished: 0
+    member_joined: 1
+    member_left: 0
+    war_win: 0
+    war_lose: 0
+    tag_changed: 0
+    member_kicked: 0
+    extra_chest: 0
+    locked_pages_chest: []
+    settings:
+      war_invite: 1
+      ally_shared_chat: 0
+      ally_shared_home: 0
+      join_leave: 1
+  7b156213-0ac5-42ef-8aac-98b23b4e6ee5:
+    tag: SM
+    tag_raw: SM
+    desc: ''
+    leader: 79faafed-e2a4-3ee5-a7c9-8219f477f10a
+    verified: true
+    home: []
+    creation_date: 1642304746
+    members:
+    - 79faafed-e2a4-3ee5-a7c9-8219f477f10a
+    online_members: ''
+    mods: []
+    rival: []
+    ally: []
+    kills: 0
+    deaths: 0
+    souls: 0
+    kdr: 0.0
+    ff: false
+    bank: '0'
+    level: '1'
+    maxlevel: '1'
+    extra_slots: '0'
+    quest:
+      points: 100
+      finished: 0
+    member_joined: 0
+    member_left: 0
+    war_win: 0
+    war_lose: 0
+    tag_changed: 0
+    member_kicked: 0
+    extra_chest: 0
+    locked_pages_chest: []
+    settings:
+      war_invite: 1
+      ally_shared_chat: 0
+      ally_shared_home: 0
+      join_leave: 1
+  bff2ec17-711f-4c2a-8b81-a72a0106b162:
+    tag: Chef
+    tag_raw: Chef
+    desc: ''
+    leader: a763a444-738e-369a-ae40-e8e2a5a613c1
+    verified: true
+    home: []
+    creation_date: 1642307285
+    members:
+    - a763a444-738e-369a-ae40-e8e2a5a613c1
+    - ef6b595b-406d-330e-80ec-61c683eed8a6
+    - 87c39e94-7979-3150-a57c-02865654eeef
+    - fdc5fc6b-9bb6-383e-90b3-bb6cb2796447
+    - 88ab7721-131d-3120-a6f3-bee0482f20a6
+    - 63e88dca-1183-3654-84d4-299c07175b55
+    - 37beb6a3-f4e4-3d57-b9ac-0a2a692c8bcb
+    online_members: ''
+    mods: []
+    rival: []
+    ally: []
+    kills: 2
+    deaths: 3
+    souls: 0
+    kdr: 0.0
+    ff: false
+    bank: '0'
+    level: '2'
+    maxlevel: '2'
+    extra_slots: '0'
+    quest:
+      points: 220
+      finished: 0
+    member_joined: 6
+    member_left: 0
+    war_win: 0
+    war_lose: 0
+    tag_changed: 0
+    member_kicked: 0
+    extra_chest: 0
+    locked_pages_chest: []
+    settings:
+      war_invite: 1
+      ally_shared_chat: 0
+      ally_shared_home: 0
+      join_leave: 1
+  b3b06fce-643f-4ea9-8ea9-00e0b1120a65:
+    tag: Reds
+    tag_raw: Reds
+    desc: ''
+    leader: 8cc0ebf5-630b-3d38-b0ae-84f368bd7d65
+    verified: true
+    home: []
+    creation_date: 1642308867
+    members:
+    - 8cc0ebf5-630b-3d38-b0ae-84f368bd7d65
+    - 227459ce-4dbb-3c81-a9da-2e6e3fe2721d
+    - a36a177f-d073-30b3-8748-105fee043399
+    - 48c92634-54f7-31f1-b341-038a2bf290c8
+    - b965bcca-3ca9-3b4d-884a-deba55c4e141
+    - 0ae5542f-726f-3432-ba27-0406ab154b47
+    online_members: ''
+    mods: []
+    rival: []
+    ally: []
+    kills: 4
+    deaths: 7
+    souls: 0
+    kdr: 0.0
+    ff: false
+    bank: '0'
+    level: '2'
+    maxlevel: '2'
+    extra_slots: '0'
+    quest:
+      points: 200
+      finished: 0
+    member_joined: 5
+    member_left: 0
+    war_win: 0
+    war_lose: 0
+    tag_changed: 0
+    member_kicked: 0
+    extra_chest: 0
+    locked_pages_chest: []
+    settings:
+      war_invite: 1
+      ally_shared_chat: 0
+      ally_shared_home: 0
+      join_leave: 1
+  d56968d4-9257-479d-b054-d62214f807a3:
+    tag: CWT
+    tag_raw: CWT
+    desc: ''
+    leader: 21ffae59-ce1e-384b-91a3-43b98fb06f57
+    verified: true
+    home: []
+    creation_date: 1642310991
+    members:
+    - 21ffae59-ce1e-384b-91a3-43b98fb06f57
+    - 56d0f003-9c00-3ff7-b5d6-075c2ca78547
+    - 78d8c3ea-37d4-3ecc-bbb3-c2fa4ce30322
+    - 1b6d91ac-fb2d-308f-93f1-49087ddadb9f
+    - c93eddee-bb3e-30b2-8744-92a8288f4104
+    online_members: ''
+    mods: []
+    rival: []
+    ally: []
+    kills: 0
+    deaths: 1
+    souls: 0
+    kdr: 0.0
+    ff: false
+    bank: '0'
+    level: '2'
+    maxlevel: '2'
+    extra_slots: '0'
+    quest:
+      points: 180
+      finished: 0
+    member_joined: 4
+    member_left: 0
+    war_win: 0
+    war_lose: 0
+    tag_changed: 0
+    member_kicked: 0
+    extra_chest: 0
+    locked_pages_chest: []
+    settings:
+      war_invite: 1
+      ally_shared_chat: 0
+      ally_shared_home: 0
+      join_leave: 1
+  9ffe0467-6b89-493a-9959-0328d52ce636:
+    tag: KREW
+    tag_raw: KREW
+    desc: ''
+    leader: f2586cf3-4434-35b5-b742-84d991bebf55
+    verified: true
+    home:
+    - Clans::oro::1|-1557.368987243287|63.0|-3495.751265243302|15.149911|176.7555
+    - Clans::mina::1|5960.031880812961|76.0|7415.762415800628|34.864365|4.6137347
+    creation_date: 1642316699
+    members:
+    - f2586cf3-4434-35b5-b742-84d991bebf55
+    - 5848a1ab-3f09-32c4-80c6-db62ae156d09
+    - aa16d7d1-83a8-3654-b415-d46365cfd692
+    - 9680a09b-2b61-3eb3-a846-3b32cce736bd
+    - e2d82718-4118-3569-bd09-345efb77af96
+    online_members: ''
+    mods: []
+    rival: []
+    ally: []
+    kills: 5
+    deaths: 4
+    souls: 0
+    kdr: 1.0
+    ff: false
+    bank: '0'
+    level: '2'
+    maxlevel: '2'
+    extra_slots: '0'
+    quest:
+      points: 180
+      finished: 0
+    member_joined: 4
+    member_left: 0
+    war_win: 0
+    war_lose: 0
+    tag_changed: 0
+    member_kicked: 0
+    extra_chest: 0
+    locked_pages_chest: []
+    settings:
+      war_invite: 1
+      ally_shared_chat: 0
+      ally_shared_home: 0
+      join_leave: 1
+  e0f5f14a-801a-42d1-829d-57924361e091:
+    tag: AZUL
+    tag_raw: AZUL
+    desc: ''
+    leader: 5e0d2129-5876-3b22-b317-06c52a30d286
+    verified: true
+    home:
+    - Clans::home::1|-40.52472167865393|76.0|1940.537988287999|7.7995853|-89.8837
+    creation_date: 1642323610
+    members:
+    - 5e0d2129-5876-3b22-b317-06c52a30d286
+    - a6d03cae-462e-3736-827b-bce2696baaf5
+    - 5b70f618-a878-3aa9-a945-955029006004
+    - e46a01c9-b3ea-311a-8622-0f9877291bc6
+    - 7c8f7d32-dd61-3b21-a7cd-d29313269612
+    online_members: ''
+    mods: []
+    rival: []
+    ally: []
+    kills: 2
+    deaths: 4
+    souls: 0
+    kdr: 0.0
+    ff: false
+    bank: '0'
+    level: '2'
+    maxlevel: '2'
+    extra_slots: '0'
+    quest:
+      points: 180
+      finished: 0
+    member_joined: 4
+    member_left: 0
+    war_win: 0
+    war_lose: 0
+    tag_changed: 0
+    member_kicked: 0
+    extra_chest: 0
+    locked_pages_chest: []
+    settings:
+      war_invite: 1
+      ally_shared_chat: 0
+      ally_shared_home: 0
+      join_leave: 1
+  1b1d42bc-2a04-4e61-b910-3fbb7a0711e9:
+    tag: Oros
+    tag_raw: Oros
+    desc: ''
+    leader: 85f75eb3-3af8-3dd2-959b-98424968ddf6
+    verified: true
+    home:
+    - Clans::kreu::1|-1558.0631278609553|63.0|-3497.890354892476|11.699995|323.51196
+    - Clans::valk::1|-510.4999458872224|60.0|-11.986974557998677|26.23463|-25.16075
+    creation_date: 1642381508
+    members:
+    - 85f75eb3-3af8-3dd2-959b-98424968ddf6
+    - 58452e50-af07-3d96-8491-6db463def6e5
+    - 07785c16-909b-3609-9c0c-44041450545e
+    - 1e4eeb78-c282-34a9-af07-4e65081c484a
+    - d05e3121-183c-388f-9ea2-879529f4cc9f
+    online_members: ''
+    mods: []
+    rival: []
+    ally: []
+    kills: 3
+    deaths: 5
+    souls: 0
+    kdr: 0.0
+    ff: false
+    bank: '0'
+    level: '2'
+    maxlevel: '2'
+    extra_slots: '0'
+    quest:
+      points: 180
+      finished: 0
+    member_joined: 4
+    member_left: 0
+    war_win: 0
+    war_lose: 0
+    tag_changed: 0
+    member_kicked: 0
+    extra_chest: 0
+    locked_pages_chest: []
+    settings:
+      war_invite: 1
+      ally_shared_chat: 0
+      ally_shared_home: 0
+      join_leave: 1
+  083d7104-1ffc-4899-a172-d498b7457d39:
+    tag: KOFS
+    tag_raw: KOFS
+    desc: ''
+    leader: bc05e9f3-fce8-36da-b598-a2dbc099524b
+    verified: true
+    home: []
+    creation_date: 1642438509
+    members:
+    - bc05e9f3-fce8-36da-b598-a2dbc099524b
+    - 6fd82bb0-70a8-3145-bac2-5805cadd1d96
+    - c8fcde63-a461-3ef1-9bc6-e3ed23345d52
+    - 58391e53-92cf-3756-bce7-561e42dd62fd
+    online_members: ''
+    mods: []
+    rival: []
+    ally: []
+    kills: 0
+    deaths: 0
+    souls: 0
+    kdr: 0.0
+    ff: false
+    bank: '0'
+    level: '2'
+    maxlevel: '2'
+    extra_slots: '0'
+    quest:
+      points: 160
+      finished: 0
+    member_joined: 3
+    member_left: 0
+    war_win: 0
+    war_lose: 0
+    tag_changed: 0
+    member_kicked: 0
+    extra_chest: 0
+    locked_pages_chest: []
+    settings:
+      war_invite: 1
+      ally_shared_chat: 0
+      ally_shared_home: 0
+      join_leave: 1
+  41302c7c-5466-4532-8ea5-27e051ad906c:
+    tag: URSS
+    tag_raw: URSS
+    desc: ''
+    leader: 556909b0-2a4e-374f-8238-0fc988472b50
+    verified: true
+    home: []
+    creation_date: 1642453806
+    members:
+    - 556909b0-2a4e-374f-8238-0fc988472b50
+    - c15f4654-f0c6-3bfa-99fb-0458b70ac0bc
+    - 8c75bdcf-894b-38b5-bb67-3261631cc58a
+    - a28bfbc7-7c66-3661-8e8a-ec63f4919666
+    - 29951076-9276-32e7-8d57-26bdd5764c0f
+    - 2e7d886a-b9f3-3916-af8b-149a7f839297
+    online_members: ''
+    mods: []
+    rival: []
+    ally: []
+    kills: 2
+    deaths: 4
+    souls: 0
+    kdr: 0.0
+    ff: false
+    bank: '0'
+    level: '2'
+    maxlevel: '2'
+    extra_slots: '0'
+    quest:
+      points: 200
+      finished: 0
+    member_joined: 5
+    member_left: 0
+    war_win: 0
+    war_lose: 0
+    tag_changed: 0
+    member_kicked: 0
+    extra_chest: 0
+    locked_pages_chest: []
+    settings:
+      war_invite: 1
+      ally_shared_chat: 0
+      ally_shared_home: 0
+      join_leave: 1
+  fb22efc4-e05c-4309-8d99-aa0fe7acc449:
+    tag: Dios
+    tag_raw: Dios
+    desc: ''
+    leader: f74ebe2f-ff33-3d4f-a6ec-b9171bd6bd1e
+    verified: true
+    home: []
+    creation_date: 1642467756
+    members:
+    - f74ebe2f-ff33-3d4f-a6ec-b9171bd6bd1e
+    online_members: ''
+    mods: []
+    rival: []
+    ally: []
+    kills: 18
+    deaths: 2
+    souls: 0
+    kdr: 9.0
+    ff: false
+    bank: '0'
+    level: '1'
+    maxlevel: '1'
+    extra_slots: '0'
+    quest:
+      points: 100
+      finished: 0
+    member_joined: 0
+    member_left: 0
+    war_win: 0
+    war_lose: 0
+    tag_changed: 0
+    member_kicked: 0
+    extra_chest: 0
+    locked_pages_chest: []
+    settings:
+      war_invite: 1
+      ally_shared_chat: 0
+      ally_shared_home: 0
+      join_leave: 1
+  4025ef5f-c426-46ed-8b27-c2b4cd694248:
+    tag: MMC
+    tag_raw: MMC
+    desc: ''
+    leader: b3e8a6d8-6965-3b33-9c0f-090a858f3061
+    verified: true
+    home: []
+    creation_date: 1642469721
+    members:
+    - b3e8a6d8-6965-3b33-9c0f-090a858f3061
+    - 3d381b86-2048-31a0-ace9-12cdd96e2774
+    - 8798b9b4-eee6-3ba7-901f-ac0711eb9bc9
+    - 49bef0d8-efaa-3a38-b162-23cd079ffb90
+    - b9f43f9f-5448-3cc5-b39d-50fd0006d127
+    online_members: ''
+    mods: []
+    rival: []
+    ally: []
+    kills: 1
+    deaths: 7
+    souls: 0
+    kdr: 0.0
+    ff: false
+    bank: '0'
+    level: '2'
+    maxlevel: '2'
+    extra_slots: '0'
+    quest:
+      points: 180
+      finished: 0
+    member_joined: 4
+    member_left: 0
+    war_win: 0
+    war_lose: 0
+    tag_changed: 0
+    member_kicked: 0
+    extra_chest: 0
+    locked_pages_chest: []
+    settings:
+      war_invite: 1
+      ally_shared_chat: 0
+      ally_shared_home: 0
+      join_leave: 1
+  98961cb1-36db-43fe-8144-794b4a695717:
+    tag: CZ
+    tag_raw: CZ
+    desc: ''
+    leader: b50b234c-b167-315e-9727-c9e01a8ffec7
+    verified: true
+    home: []
+    creation_date: 1642748810
+    members:
+    - b50b234c-b167-315e-9727-c9e01a8ffec7
+    - 43a9b960-65f8-3669-a8db-6d71f2c0adfa
+    online_members: ''
+    mods: []
+    rival: []
+    ally: []
+    kills: 0
+    deaths: 1
+    souls: 0
+    kdr: 0.0
+    ff: false
+    bank: '0'
+    level: '1'
+    maxlevel: '1'
+    extra_slots: '0'
+    quest:
+      points: 120
+      finished: 0
+    member_joined: 1
+    member_left: 0
+    war_win: 0
+    war_lose: 0
+    tag_changed: 0
+    member_kicked: 0
+    extra_chest: 0
+    locked_pages_chest: []
+    settings:
+      war_invite: 1
+      ally_shared_chat: 0
+      ally_shared_home: 0
+      join_leave: 1
+  c55f1d14-d9ca-45e0-8496-b047448e0559:
+    tag: Car
+    tag_raw: Car
+    desc: ''
+    leader: a347441d-93f6-306c-bc8a-faaf56815e6c
+    verified: true
+    home: []
+    creation_date: 1642748990
+    members:
+    - a347441d-93f6-306c-bc8a-faaf56815e6c
+    - a7af222b-54fc-33bb-aea3-903cfcff4d40
+    - 9fdbf0aa-ed96-3c37-a0f5-20f643b434ea
+    online_members: ''
+    mods: []
+    rival: []
+    ally: []
+    kills: 4
+    deaths: 4
+    souls: 0
+    kdr: 1.0
+    ff: false
+    bank: '0'
+    level: '2'
+    maxlevel: '2'
+    extra_slots: '0'
+    quest:
+      points: 140
+      finished: 0
+    member_joined: 2
+    member_left: 0
+    war_win: 0
+    war_lose: 0
+    tag_changed: 0
+    member_kicked: 0
+    extra_chest: 0
+    locked_pages_chest: []
+    settings:
+      war_invite: 1
+      ally_shared_chat: 0
+      ally_shared_home: 0
+      join_leave: 1
+  e0b949f5-1434-46c1-b10b-2bcfde32327a:
+    tag: BAKA
+    tag_raw: BAKA
+    desc: ''
+    leader: 49c47bd4-65e4-3c62-a088-57f23366e045
+    verified: true
+    home: []
+    creation_date: 1642923630
+    members:
+    - 7052e640-59c1-37e9-961b-3974a2487561
+    - 49c47bd4-65e4-3c62-a088-57f23366e045
+    - c6d37336-b308-3341-841c-3f40b214d671
+    online_members: ''
+    mods:
+    - 49c47bd4-65e4-3c62-a088-57f23366e045
+    rival: []
+    ally: []
+    kills: 0
+    deaths: 0
+    souls: 0
+    kdr: 0.0
+    ff: true
+    bank: '0'
+    level: '2'
+    maxlevel: '2'
+    extra_slots: '0'
+    quest:
+      points: 170
+      finished: 0
+    member_joined: 2
+    member_left: 0
+    war_win: 0
+    war_lose: 0
+    tag_changed: 0
+    member_kicked: 0
+    extra_chest: 0
+    locked_pages_chest: []
+    settings:
+      war_invite: 1
+      ally_shared_chat: 0
+      ally_shared_home: 0
+      join_leave: 1
+  553e7a39-e0b1-4376-a5c2-69937288cd85:
+    tag: dvl
+    tag_raw: dvl
+    desc: ''
+    leader: 31c15294-3fe4-3d46-9cee-0d11fcd8f2fe
+    verified: true
+    home: []
+    creation_date: 1643233329
+    members:
+    - 31c15294-3fe4-3d46-9cee-0d11fcd8f2fe
+    online_members: ''
+    mods: []
+    rival: []
+    ally: []
+    kills: 1
+    deaths: 0
+    souls: 0
+    kdr: 1.0
+    ff: false
+    bank: '0'
+    level: '1'
+    maxlevel: '1'
+    extra_slots: '0'
+    quest:
+      points: 100
+      finished: 0
+    member_joined: 0
+    member_left: 0
+    war_win: 0
+    war_lose: 0
+    tag_changed: 0
+    member_kicked: 0
+    extra_chest: 0
+    locked_pages_chest: []
+    settings:
+      war_invite: 1
+      ally_shared_chat: 0
+      ally_shared_home: 0
+      join_leave: 1

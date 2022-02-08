@@ -1,0 +1,26 @@
+{
+  "tombstone:tutorial/root": {
+    "criteria": {
+      "auto": "2022-02-02 09:57:17 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2022-02-02 09:57:18 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/compat/tconstruct": {
+    "criteria": {
+      "book": "2022-02-02 09:57:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2022-02-02 09:57:17 +0000"
+    },
+    "done": false
+  }
+}

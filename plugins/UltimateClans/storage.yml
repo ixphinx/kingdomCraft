@@ -1,0 +1,18 @@
+Storage:
+  # mysql/yaml
+  # For better performance it is recommended to use MYSQL as storage.
+  type: yaml
+  mysql:
+    # NEW DRIVER: com.mysql.cj.jdbc.Driver
+    # OLD DRIVER: com.mysql.jdbc.Driver
+    driver: com.mysql.jdbc.Driver
+    host: localhost
+    user: YOUR-USER
+    pass: YOUR-PASSWORD
+    port: 3306
+    base: YOUR-BASE-PRE-CREATED
+    #SSL is only valid for MYSQL, most servers are not necessary to use it as true.
+    useSSL: false
+  databases:
+    clan_table: uclans-clans
+    player_table: uclans-players

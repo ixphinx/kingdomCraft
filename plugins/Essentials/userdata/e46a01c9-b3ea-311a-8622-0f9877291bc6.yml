@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1642904443108
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1642997158183
+  login: 1642997053068
+money: '0'
+last-account-name: IgniteYourSoul
+lastlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: -33.231296596761744
+  y: 75.0
+  z: 1936.4242586308128
+  yaw: -173.52783203125
+  pitch: 8.313983917236328
+logoutlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: -85.55026757067385
+  y: 78.0
+  z: 1883.0263339593755
+  yaw: -352.83935546875
+  pitch: 46.50469207763672

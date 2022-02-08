@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 162.255.87.177
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1643081676825
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1643305846435
+  login: 1643305460035
+money: '0'
+last-account-name: Danilox07
+lastlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: -95.7136702032988
+  y: 14.0
+  z: -31.646595986269503
+  yaw: -335.153076171875
+  pitch: 22.499977111816406
+logoutlocation:
+  world: 5b965d2f-ff33-4090-ac48-c1dc43eca0cd
+  world-name: '1'
+  x: -163.46077627481083
+  y: 63.0
+  z: 311.3744471374717
+  yaw: -224.11669921875
+  pitch: 17.399965286254883
